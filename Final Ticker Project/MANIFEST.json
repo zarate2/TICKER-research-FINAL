@@ -1,0 +1,246 @@
+{
+  "generated_utc": "2026-10-20T02:10:08.248019+00:00",
+  "type": "AI-assisted final build manifest, not a human AI-off prediction",
+  "files": [
+    {
+      "file": "COMMITTEE_MEMO.md",
+      "bytes": 3995,
+      "sha256": "2eda185c9a4ad07ea0b9205b6874844aa0e54563b2b8f6de560e11a719bae3a2"
+    },
+    {
+      "file": "EDITION_B.md",
+      "bytes": 16867,
+      "sha256": "b78b7a804c881d7e727d957e14a090c30614697819e632320a8ca5143d3de665"
+    },
+    {
+      "file": "Launch Workbench.command",
+      "bytes": 53,
+      "sha256": "2ced8bb2879c7bcafbc38aefc0963a75b7a4b62e3f6dc331f6e0e487c07a7edd"
+    },
+    {
+      "file": "MODEL_GUIDE.md",
+      "bytes": 11855,
+      "sha256": "9cb2c5180a28a41bbf6d79ef4dab2c3eecefc0cd0e4bcea9d7b8cb3c8d05e051"
+    },
+    {
+      "file": "README.md",
+      "bytes": 1431,
+      "sha256": "b08de8505079d635f76fca3a5130a9b5f6ed8919593cc0768ab1eb7dbd0eb65c"
+    },
+    {
+      "file": "RESEARCH_EVOLUTION.md",
+      "bytes": 2937,
+      "sha256": "c79c1278803d00f97438f8210f2541c8406a9dcfed7d457c78ae1acb1a448644"
+    },
+    {
+      "file": "START_HERE.md",
+      "bytes": 5109,
+      "sha256": "fad3849720d8365eba697c5f118d134d10cfd73410791d5c092c6e93845545db"
+    },
+    {
+      "file": "SUBMISSION_CHECKLIST.md",
+      "bytes": 6647,
+      "sha256": "2f11a0b728211d6c8dded9a7512028ebfe013461d8198c0c7036492b34385310"
+    },
+    {
+      "file": "app.py",
+      "bytes": 2688,
+      "sha256": "832b49eb1e4ad6a2941415b2a6b37af00405e89af74c885dc2469150e1bbc8ff"
+    },
+    {
+      "file": "build_report.py",
+      "bytes": 9326,
+      "sha256": "d02af64c6b635b0bcb978f031924301f27c0f5fc3e5b2b6051e2d8b7ad5e39e5"
+    },
+    {
+      "file": "cold_run.py",
+      "bytes": 4743,
+      "sha256": "283a78f47f147bb0ba9b926cc2767f90a86fedf195f3e068b991ad943b20868d"
+    },
+    {
+      "file": "edition A.md",
+      "bytes": 14000,
+      "sha256": "7c61f2bd914fb66e4acdd8ad538840d20247921089c433e376f88545b83ce0c0"
+    },
+    {
+      "file": "elv_forecast.py",
+      "bytes": 6952,
+      "sha256": "bbb28ee95070c859702aeb35189d70955adec1cc32760ac159cbf83cd382a906"
+    },
+    {
+      "file": "freeze_manifest.py",
+      "bytes": 833,
+      "sha256": "78192470975a34b91f1faa1cbaf869d6d8fc3af5edab11d5af1df85b2bf42e4f"
+    },
+    {
+      "file": "index.html",
+      "bytes": 19769,
+      "sha256": "128cee1de103bdec2f800605e12acb37b8bb6da454c1033373fd660fb21b4fab"
+    },
+    {
+      "file": "model.py",
+      "bytes": 18688,
+      "sha256": "59ecd1a0151296e6dcb7cf8ef300155b7c300ba93b89aa57831ffa286078c4ec"
+    },
+    {
+      "file": "outputs/BASE_REPORT.html",
+      "bytes": 23460,
+      "sha256": "bc5eb0465a10416b34dbaced2eede7500b85de3bb673c9b128d9d0acf7aebe54"
+    },
+    {
+      "file": "outputs/BASE_REPORT.md",
+      "bytes": 16704,
+      "sha256": "256c52f7750e07c9f54b1e524c18a01d087509a423c75fb25c6efac591c82e3b"
+    },
+    {
+      "file": "outputs/BASE_RUN.json",
+      "bytes": 115596,
+      "sha256": "c619aeaa782bfc3791b1e146c78cad1dc41d52feb6b0a9cb59ffb47b6096f916"
+    },
+    {
+      "file": "records/AI_DIRECTIONAL_PRECOMMIT.md",
+      "bytes": 1287,
+      "sha256": "c9abf26a44ddd119dd7fadd9f640fdc91071f92614360bac7eab045c26f0e796"
+    },
+    {
+      "file": "records/AI_USE_AND_VALIDATION.md",
+      "bytes": 4481,
+      "sha256": "487af621823e753fad34c91600c1b761eefc9d26e1b19ef4cdc483ff2ee62bb2"
+    },
+    {
+      "file": "records/ASSUMPTION_CHALLENGE.md",
+      "bytes": 5348,
+      "sha256": "1832f27bce6ff0f78efda17e2c55ecefc3f4f03f41bc9c8e7f5a1dca556c4431"
+    },
+    {
+      "file": "records/COLD_RUN.log",
+      "bytes": 6045,
+      "sha256": "34ba575ea9c23a83ead17810b1b1b5efb68b202e0d7b7fd31fd968490c02ddf8"
+    },
+    {
+      "file": "records/HUMAN_RECORDS.md",
+      "bytes": 2265,
+      "sha256": "9337563ae7fa20ee1f8f6ee38a76b6379807fefbcb5a09641277876bb7ffbb40"
+    },
+    {
+      "file": "records/SUBMISSION_CHECKS.log",
+      "bytes": 3646,
+      "sha256": "dbb4d04fd7e4e2482d0264eb1229fca671ab13c333218b36e9a4429fa6e2d8ca"
+    },
+    {
+      "file": "records/UI_VERIFICATION.md",
+      "bytes": 1613,
+      "sha256": "878089e012effcc3ffbfc5a30ac6d01b91f3d4d61a85362afe387d35cd5ee535"
+    },
+    {
+      "file": "research/ASSIGNMENT.md",
+      "bytes": 10860,
+      "sha256": "a0e0a8159dc091d2f22b700d01cd524c0229ef5334ed3dbef728bb933114dfb8"
+    },
+    {
+      "file": "research/EDITION_A_RETROSPECTIVE_NOT_CHECKPOINT.md",
+      "bytes": 14000,
+      "sha256": "7c61f2bd914fb66e4acdd8ad538840d20247921089c433e376f88545b83ce0c0"
+    },
+    {
+      "file": "research/HISTORICAL_INPUTS.json",
+      "bytes": 4274,
+      "sha256": "58a1ddcccc3b780c1d036cce0fcaeffce9639cff48d2490ae941565d03f0dc56"
+    },
+    {
+      "file": "research/Lab11_elv-operating-sensitivity.md",
+      "bytes": 12538,
+      "sha256": "f572e81e9330c10b70b1f8b1f5e50077c653016ff4cbc42eb8fd26487f4445f0"
+    },
+    {
+      "file": "research/Lab11_elv-sensitivity-personal-record.md",
+      "bytes": 2644,
+      "sha256": "9fdc3839bb7c84c189d40620124c954b1f13b1844ecc62e4a0889413e467fdde"
+    },
+    {
+      "file": "research/PEER_POLICY.md",
+      "bytes": 2148,
+      "sha256": "8a4774c0e89113d614d1de934e31f03510e8e307138d68bb5a847f6ff5722aa3"
+    },
+    {
+      "file": "research/README.md",
+      "bytes": 1020,
+      "sha256": "49ef58a4bea270fc5d4205d27c87bc0ad3a97d9dce6a36872ac8f61d64dcc055"
+    },
+    {
+      "file": "research/SOURCES.json",
+      "bytes": 2704,
+      "sha256": "a236a5b1addb16f00003dc63eb26539e86370158886391ce2dedd829ceb11e9a"
+    },
+    {
+      "file": "research/edition_b_sources/Elevance_Health_2026-09-03_report.md",
+      "bytes": 19450,
+      "sha256": "3f3dbe2eccb9409602b52bfd949c312279bdf37694f9fff0556c560f7f5b99ab"
+    },
+    {
+      "file": "research/edition_b_sources/LAB 4.md",
+      "bytes": 10882,
+      "sha256": "a8cffb57069d9ef621e4dfa55449a9b1f6462ea739f4da42822e7c52a8cf8284"
+    },
+    {
+      "file": "research/edition_b_sources/Lab 5.md",
+      "bytes": 19883,
+      "sha256": "a160a95430ea3af718b1df085339840fad017053a021ae51906ca3769754ad6a"
+    },
+    {
+      "file": "research/edition_b_sources/Lab12_discussion.md",
+      "bytes": 3392,
+      "sha256": "826895f03323de0e13ca16e27eec22d7a20f373fdeb7764de6d03f78bf5bd305"
+    },
+    {
+      "file": "research/edition_b_sources/lab-07-elv.md",
+      "bytes": 7022,
+      "sha256": "4be63eb9e13b861c438d5368ad70c2b750ee4fbaca130808b2390796530f35e8"
+    },
+    {
+      "file": "research/edition_b_sources/lab-09-elv.md",
+      "bytes": 15718,
+      "sha256": "2b0bcc0529e69c9057da429e7e75bed0395a1d63028cab160f7ab1f6eddcbbbe"
+    },
+    {
+      "file": "research/edition_b_sources/lab-13-response.md",
+      "bytes": 12322,
+      "sha256": "a89b7fa5f81f3b9c19236d85bb52dae5250e037854fd69264a5cce84cb69608a"
+    },
+    {
+      "file": "research/lab-06-elv.md",
+      "bytes": 33566,
+      "sha256": "1fdd7af6e8e51f8495dbdeb2322f84aad6630647311a5e0bd37cbe0947111cf5"
+    },
+    {
+      "file": "research/lab-08-elv.md",
+      "bytes": 21531,
+      "sha256": "619c3872d5fe1a16ec83f59b893688c38a48d253346cb754ffadab6ae3583df3"
+    },
+    {
+      "file": "research/lab-10-elv.md",
+      "bytes": 33917,
+      "sha256": "7145643f4ef90474d188da616c04807a1c5513c717a1e13e0aeaae3fb4333d18"
+    },
+    {
+      "file": "research/original_elv_comps.py",
+      "bytes": 8147,
+      "sha256": "8f933bec98d84e8deeae8c3e075fbbd411e9fb98475eb7a9a5e6669300cdc090"
+    },
+    {
+      "file": "research/original_elv_lab10.py",
+      "bytes": 16990,
+      "sha256": "511bb92206d632ba7d293fb83bdb0e96421f1b454e9e65d6d01c1868a53e9606"
+    },
+    {
+      "file": "submission_checks.py",
+      "bytes": 4549,
+      "sha256": "3f8724caada46d9c18a04d7c3ecde210875ca1155bbe97262b41b5e7314a526c"
+    },
+    {
+      "file": "test_model.py",
+      "bytes": 7057,
+      "sha256": "e99bbdc6110d0eaf6ea5f7401375a60e73b7e660eb1a81c94fff106c7d7654b3"
+    }
+  ]
+}

@@ -1,0 +1,4129 @@
+{
+  "current": {
+    "inputs": {
+      "growth": 3.0,
+      "margin_shift": 0.0,
+      "expense_shift": 0.0,
+      "claims_days": 42.06944941068525,
+      "capex": 1116.0,
+      "tax": 24.0,
+      "investment_income": 1796.0,
+      "debt_rate": 4.374960993571741,
+      "repayment": 1000.0,
+      "buyback": 2605.0,
+      "ke": 10.0,
+      "terminal_growth": 2.5
+    },
+    "annual_assumptions": {
+      "growth": [
+        0.03,
+        0.03,
+        0.03,
+        0.03,
+        0.03
+      ],
+      "margin": [
+        0.143,
+        0.145,
+        0.147,
+        0.148,
+        0.148
+      ],
+      "cash_opex_ratio": [
+        0.712,
+        0.708,
+        0.704,
+        0.7,
+        0.7
+      ],
+      "ppe_da_ratio": 0.2092327420388972,
+      "intangible_amort": 628.0,
+      "capex": 1116.0,
+      "tax": 0.24,
+      "benefit_share": 0.8749830284354874,
+      "claims_to_benefits": 0.11525876550872671,
+      "receivables_ratio": 0.10902704672443113,
+      "other_wc_ratio": 0.027046724431128027,
+      "investment_income": 1796.0,
+      "debt_rate": 0.04374960993571741,
+      "net_repayment": 1000.0,
+      "buyback": 2605.0,
+      "dividend": 1529.0,
+      "minimum_cash": 9491.0,
+      "revolver_limit": 5000.0,
+      "revolver_rate": 0.06,
+      "ke": 0.1,
+      "terminal_growth": 0.025,
+      "shares": 220.723898
+    },
+    "rows": [
+      {
+        "year": 2026,
+        "revenue": 203511.52000000002,
+        "cash": 9994.509708903348,
+        "receivables": 22188.260000000002,
+        "ppe": 4816.0,
+        "investments": 38584.0,
+        "intangibles": 10572.0,
+        "other_assets": 36158.32,
+        "claims": 17589.09169474655,
+        "debt": 31046.0,
+        "revolver": 0.0,
+        "other_liabilities": 28338.0,
+        "equity": 45195.9980141568,
+        "nci": 144.0,
+        "gross_profit": 29102.14736,
+        "direct_costs": 174409.37264000002,
+        "benefits": 152605.24106008065,
+        "products": 21804.13157991937,
+        "cash_opex": 20720.728920319998,
+        "ppe_da": 979.0,
+        "amort": 628.0,
+        "operating_income": 6774.418439680001,
+        "investment_income": 1796.0,
+        "interest": 1402.0,
+        "pretax": 7168.418439680001,
+        "tax": 1720.4204255232003,
+        "net_income": 5447.998014156801,
+        "other_wc_change": 160.3200000000005,
+        "capex": 1116.0,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "receivables_change": 646.260000000002,
+        "claims_change": 505.09169474654846,
+        "cfo": 6753.509708903347,
+        "cfi": -1116.0,
+        "fcfe": 4637.509708903347,
+        "opening_cash": 9491.0,
+        "revolver_change": -0.0,
+        "cff": -5134.0,
+        "cash_change": 503.509708903347,
+        "assets": 122313.08970890334,
+        "liabilities": 76973.09169474654,
+        "ebit": 6774.418439680001
+      },
+      {
+        "year": 2027,
+        "revenue": 209616.86560000002,
+        "cash": 10869.510186922305,
+        "receivables": 22853.9078,
+        "ppe": 4924.335114340671,
+        "investments": 38584.0,
+        "intangibles": 9944.0,
+        "other_assets": 36323.4496,
+        "claims": 18074.48494863308,
+        "debt": 30046.0,
+        "revolver": 0.0,
+        "other_liabilities": 28338.0,
+        "equity": 46896.7177526299,
+        "nci": 144.0,
+        "gross_profit": 30394.445512000002,
+        "direct_costs": 179222.420088,
+        "benefits": 156816.57589213538,
+        "products": 22405.84419586463,
+        "cash_opex": 21519.267422496,
+        "ppe_da": 1007.6648856593289,
+        "amort": 628.0,
+        "operating_income": 7239.513203844674,
+        "investment_income": 1796.0,
+        "interest": 1358.2503900642826,
+        "pretax": 7677.262813780391,
+        "tax": 1842.5430753072937,
+        "net_income": 5834.719738473097,
+        "other_wc_change": 165.1296,
+        "capex": 1116.0,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "receivables_change": 665.6477999999988,
+        "claims_change": 485.39325388653015,
+        "cfo": 7125.000478018957,
+        "cfi": -1116.0,
+        "fcfe": 5009.000478018957,
+        "opening_cash": 9994.509708903348,
+        "revolver_change": -0.0,
+        "cff": -5134.0,
+        "cash_change": 875.0004780189574,
+        "assets": 123499.20270126298,
+        "liabilities": 76458.48494863308,
+        "ebit": 7239.513203844674
+      },
+      {
+        "year": 2028,
+        "revenue": 215905.37156800003,
+        "cash": 12166.23589293189,
+        "receivables": 23539.525034000002,
+        "ppe": 5010.002975648746,
+        "investments": 38584.0,
+        "intangibles": 9316.0,
+        "other_assets": 36493.533088000004,
+        "claims": 18573.17161522753,
+        "debt": 29046.0,
+        "revolver": 0.0,
+        "other_liabilities": 28338.0,
+        "equity": 49008.125375353105,
+        "nci": 144.0,
+        "gross_profit": 31738.089620496004,
+        "direct_costs": 184167.28194750403,
+        "benefits": 161143.24609715934,
+        "products": 23024.03585034469,
+        "cash_opex": 22343.615092829186,
+        "ppe_da": 1030.332138691925,
+        "amort": 628.0,
+        "operating_income": 7736.142388974893,
+        "investment_income": 1796.0,
+        "interest": 1314.5007801285653,
+        "pretax": 8217.641608846328,
+        "tax": 1972.2339861231187,
+        "net_income": 6245.40762272321,
+        "other_wc_change": 170.08348800000033,
+        "capex": 1116.0,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "receivables_change": 685.6172340000012,
+        "claims_change": 498.6866665944508,
+        "cfo": 7546.725706009584,
+        "cfi": -1116.0,
+        "fcfe": 5430.725706009584,
+        "opening_cash": 10869.510186922305,
+        "revolver_change": -0.0,
+        "cff": -5134.0,
+        "cash_change": 1296.7257060095844,
+        "assets": 125109.29699058065,
+        "liabilities": 75957.17161522753,
+        "ebit": 7736.142388974893
+      },
+      {
+        "year": 2029,
+        "revenue": 222382.53271504003,
+        "cash": 13875.199031610548,
+        "receivables": 24245.710785020005,
+        "ppe": 5077.746315430724,
+        "investments": 38584.0,
+        "intangibles": 8688.0,
+        "other_assets": 36668.71908064,
+        "claims": 19107.939604524116,
+        "debt": 28046.0,
+        "revolver": 0.0,
+        "other_liabilities": 28338.0,
+        "equity": 51503.435608177155,
+        "nci": 144.0,
+        "gross_profit": 32912.614841825925,
+        "direct_costs": 189469.91787321412,
+        "benefits": 165782.96253812796,
+        "products": 23686.955335086153,
+        "cash_opex": 23038.830389278148,
+        "ppe_da": 1048.2566602180214,
+        "amort": 628.0,
+        "operating_income": 8197.527792329756,
+        "investment_income": 1796.0,
+        "interest": 1270.751170192848,
+        "pretax": 8722.77662213691,
+        "tax": 2093.466389312858,
+        "net_income": 6629.310232824051,
+        "other_wc_change": 175.18599263999985,
+        "capex": 1116.0,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "receivables_change": 706.1857510200025,
+        "claims_change": 534.7679892965862,
+        "cfo": 7958.963138678656,
+        "cfi": -1116.0,
+        "fcfe": 5842.963138678656,
+        "opening_cash": 12166.23589293189,
+        "revolver_change": -0.0,
+        "cff": -5134.0,
+        "cash_change": 1708.963138678656,
+        "assets": 127139.37521270127,
+        "liabilities": 75491.93960452412,
+        "ebit": 8197.527792329756
+      },
+      {
+        "year": 2030,
+        "revenue": 229054.00869649122,
+        "cash": 15857.964995824768,
+        "receivables": 24973.0821085706,
+        "ppe": 5131.315530475247,
+        "investments": 38584.0,
+        "intangibles": 8060.0,
+        "other_assets": 36849.1606530592,
+        "claims": 19681.177792659837,
+        "debt": 27046.0,
+        "revolver": 0.0,
+        "other_liabilities": 28338.0,
+        "equity": 54246.34549526997,
+        "nci": 144.0,
+        "gross_profit": 33899.993287080695,
+        "direct_costs": 195154.01540941052,
+        "benefits": 170756.45141427178,
+        "products": 24397.563995138742,
+        "cash_opex": 23729.995300956485,
+        "ppe_da": 1062.4307849554775,
+        "amort": 628.0,
+        "operating_income": 8479.567201168733,
+        "investment_income": 1796.0,
+        "interest": 1227.0015602571304,
+        "pretax": 9048.565640911602,
+        "tax": 2171.6557538187844,
+        "net_income": 6876.909887092817,
+        "other_wc_change": 180.44157241919982,
+        "capex": 1116.0,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "receivables_change": 727.3713235505966,
+        "claims_change": 573.2381881357214,
+        "cfo": 8232.76596421422,
+        "cfi": -1116.0,
+        "fcfe": 6116.765964214221,
+        "opening_cash": 13875.199031610548,
+        "revolver_change": -0.0,
+        "cff": -5134.0,
+        "cash_change": 1982.7659642142207,
+        "assets": 129455.52328792983,
+        "liabilities": 75065.17779265984,
+        "ebit": 8479.567201168733
+      }
+    ],
+    "checks": [
+      {
+        "name": "Filing assets aggregation",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing liabilities aggregation",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing balance sheet",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing operating revenue",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing pretax income",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing net income",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing common income",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing cash roll-forward incl. FX",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening cash traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening receivables traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening ppe traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening investments traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening intangibles traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening other_assets traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening claims traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening debt traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening other_liabilities traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening equity traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening nci traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening revenue traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Share denominator traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2026 balance sheet",
+        "gap": -7.275957614183426e-12,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2026 cash flow ties to cash",
+        "gap": 9.094947017729282e-13,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2026 FCFE cash bridge",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2026 liquidity / revolver",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2026 nonnegative assets / debt",
+        "gap": 4816.0,
+        "tolerance": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2026 finite outputs",
+        "gap": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2027 balance sheet",
+        "gap": 7.275957614183426e-12,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2027 cash flow ties to cash",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2027 FCFE cash bridge",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2027 liquidity / revolver",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2027 nonnegative assets / debt",
+        "gap": 4924.335114340671,
+        "tolerance": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2027 finite outputs",
+        "gap": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2028 balance sheet",
+        "gap": 1.4551915228366852e-11,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2028 cash flow ties to cash",
+        "gap": 9.094947017729282e-13,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2028 FCFE cash bridge",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2028 liquidity / revolver",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2028 nonnegative assets / debt",
+        "gap": 5010.002975648746,
+        "tolerance": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2028 finite outputs",
+        "gap": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2029 balance sheet",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2029 cash flow ties to cash",
+        "gap": 9.094947017729282e-13,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2029 FCFE cash bridge",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2029 liquidity / revolver",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2029 nonnegative assets / debt",
+        "gap": 5077.746315430724,
+        "tolerance": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2029 finite outputs",
+        "gap": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2030 balance sheet",
+        "gap": 1.4551915228366852e-11,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2030 cash flow ties to cash",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2030 FCFE cash bridge",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2030 liquidity / revolver",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2030 nonnegative assets / debt",
+        "gap": 5131.315530475247,
+        "tolerance": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2030 finite outputs",
+        "gap": 0.0,
+        "pass": true
+      },
+      {
+        "name": "Positive final and terminal FCFE",
+        "gap": 6116.765964214221,
+        "pass": true
+      },
+      {
+        "name": "Direct equity valuation reconciliation",
+        "gap": 7.275957614183426e-12,
+        "tolerance": 1e-06,
+        "pass": true
+      }
+    ],
+    "valid": true,
+    "warnings": [],
+    "valuation": {
+      "pv_flows": 20224.62519455387,
+      "terminal_cash": 7294.685113319576,
+      "terminal_value": 97262.46817759433,
+      "pv_terminal": 60392.34042483083,
+      "equity": 80616.9656193847,
+      "shares": 220.723898,
+      "per_share": 365.23895395950603,
+      "terminal_share": 0.749126935761388,
+      "bridge_gap": 7.275957614183426e-12
+    }
+  },
+  "base": {
+    "inputs": {
+      "growth": 3.0,
+      "margin_shift": 0.0,
+      "expense_shift": 0.0,
+      "claims_days": 42.06944941068525,
+      "capex": 1116.0,
+      "tax": 24.0,
+      "investment_income": 1796.0,
+      "debt_rate": 4.374960993571741,
+      "repayment": 1000.0,
+      "buyback": 2605.0,
+      "ke": 10.0,
+      "terminal_growth": 2.5
+    },
+    "annual_assumptions": {
+      "growth": [
+        0.03,
+        0.03,
+        0.03,
+        0.03,
+        0.03
+      ],
+      "margin": [
+        0.143,
+        0.145,
+        0.147,
+        0.148,
+        0.148
+      ],
+      "cash_opex_ratio": [
+        0.712,
+        0.708,
+        0.704,
+        0.7,
+        0.7
+      ],
+      "ppe_da_ratio": 0.2092327420388972,
+      "intangible_amort": 628.0,
+      "capex": 1116.0,
+      "tax": 0.24,
+      "benefit_share": 0.8749830284354874,
+      "claims_to_benefits": 0.11525876550872671,
+      "receivables_ratio": 0.10902704672443113,
+      "other_wc_ratio": 0.027046724431128027,
+      "investment_income": 1796.0,
+      "debt_rate": 0.04374960993571741,
+      "net_repayment": 1000.0,
+      "buyback": 2605.0,
+      "dividend": 1529.0,
+      "minimum_cash": 9491.0,
+      "revolver_limit": 5000.0,
+      "revolver_rate": 0.06,
+      "ke": 0.1,
+      "terminal_growth": 0.025,
+      "shares": 220.723898
+    },
+    "rows": [
+      {
+        "year": 2026,
+        "revenue": 203511.52000000002,
+        "cash": 9994.509708903348,
+        "receivables": 22188.260000000002,
+        "ppe": 4816.0,
+        "investments": 38584.0,
+        "intangibles": 10572.0,
+        "other_assets": 36158.32,
+        "claims": 17589.09169474655,
+        "debt": 31046.0,
+        "revolver": 0.0,
+        "other_liabilities": 28338.0,
+        "equity": 45195.9980141568,
+        "nci": 144.0,
+        "gross_profit": 29102.14736,
+        "direct_costs": 174409.37264000002,
+        "benefits": 152605.24106008065,
+        "products": 21804.13157991937,
+        "cash_opex": 20720.728920319998,
+        "ppe_da": 979.0,
+        "amort": 628.0,
+        "operating_income": 6774.418439680001,
+        "investment_income": 1796.0,
+        "interest": 1402.0,
+        "pretax": 7168.418439680001,
+        "tax": 1720.4204255232003,
+        "net_income": 5447.998014156801,
+        "other_wc_change": 160.3200000000005,
+        "capex": 1116.0,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "receivables_change": 646.260000000002,
+        "claims_change": 505.09169474654846,
+        "cfo": 6753.509708903347,
+        "cfi": -1116.0,
+        "fcfe": 4637.509708903347,
+        "opening_cash": 9491.0,
+        "revolver_change": -0.0,
+        "cff": -5134.0,
+        "cash_change": 503.509708903347,
+        "assets": 122313.08970890334,
+        "liabilities": 76973.09169474654,
+        "ebit": 6774.418439680001
+      },
+      {
+        "year": 2027,
+        "revenue": 209616.86560000002,
+        "cash": 10869.510186922305,
+        "receivables": 22853.9078,
+        "ppe": 4924.335114340671,
+        "investments": 38584.0,
+        "intangibles": 9944.0,
+        "other_assets": 36323.4496,
+        "claims": 18074.48494863308,
+        "debt": 30046.0,
+        "revolver": 0.0,
+        "other_liabilities": 28338.0,
+        "equity": 46896.7177526299,
+        "nci": 144.0,
+        "gross_profit": 30394.445512000002,
+        "direct_costs": 179222.420088,
+        "benefits": 156816.57589213538,
+        "products": 22405.84419586463,
+        "cash_opex": 21519.267422496,
+        "ppe_da": 1007.6648856593289,
+        "amort": 628.0,
+        "operating_income": 7239.513203844674,
+        "investment_income": 1796.0,
+        "interest": 1358.2503900642826,
+        "pretax": 7677.262813780391,
+        "tax": 1842.5430753072937,
+        "net_income": 5834.719738473097,
+        "other_wc_change": 165.1296,
+        "capex": 1116.0,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "receivables_change": 665.6477999999988,
+        "claims_change": 485.39325388653015,
+        "cfo": 7125.000478018957,
+        "cfi": -1116.0,
+        "fcfe": 5009.000478018957,
+        "opening_cash": 9994.509708903348,
+        "revolver_change": -0.0,
+        "cff": -5134.0,
+        "cash_change": 875.0004780189574,
+        "assets": 123499.20270126298,
+        "liabilities": 76458.48494863308,
+        "ebit": 7239.513203844674
+      },
+      {
+        "year": 2028,
+        "revenue": 215905.37156800003,
+        "cash": 12166.23589293189,
+        "receivables": 23539.525034000002,
+        "ppe": 5010.002975648746,
+        "investments": 38584.0,
+        "intangibles": 9316.0,
+        "other_assets": 36493.533088000004,
+        "claims": 18573.17161522753,
+        "debt": 29046.0,
+        "revolver": 0.0,
+        "other_liabilities": 28338.0,
+        "equity": 49008.125375353105,
+        "nci": 144.0,
+        "gross_profit": 31738.089620496004,
+        "direct_costs": 184167.28194750403,
+        "benefits": 161143.24609715934,
+        "products": 23024.03585034469,
+        "cash_opex": 22343.615092829186,
+        "ppe_da": 1030.332138691925,
+        "amort": 628.0,
+        "operating_income": 7736.142388974893,
+        "investment_income": 1796.0,
+        "interest": 1314.5007801285653,
+        "pretax": 8217.641608846328,
+        "tax": 1972.2339861231187,
+        "net_income": 6245.40762272321,
+        "other_wc_change": 170.08348800000033,
+        "capex": 1116.0,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "receivables_change": 685.6172340000012,
+        "claims_change": 498.6866665944508,
+        "cfo": 7546.725706009584,
+        "cfi": -1116.0,
+        "fcfe": 5430.725706009584,
+        "opening_cash": 10869.510186922305,
+        "revolver_change": -0.0,
+        "cff": -5134.0,
+        "cash_change": 1296.7257060095844,
+        "assets": 125109.29699058065,
+        "liabilities": 75957.17161522753,
+        "ebit": 7736.142388974893
+      },
+      {
+        "year": 2029,
+        "revenue": 222382.53271504003,
+        "cash": 13875.199031610548,
+        "receivables": 24245.710785020005,
+        "ppe": 5077.746315430724,
+        "investments": 38584.0,
+        "intangibles": 8688.0,
+        "other_assets": 36668.71908064,
+        "claims": 19107.939604524116,
+        "debt": 28046.0,
+        "revolver": 0.0,
+        "other_liabilities": 28338.0,
+        "equity": 51503.435608177155,
+        "nci": 144.0,
+        "gross_profit": 32912.614841825925,
+        "direct_costs": 189469.91787321412,
+        "benefits": 165782.96253812796,
+        "products": 23686.955335086153,
+        "cash_opex": 23038.830389278148,
+        "ppe_da": 1048.2566602180214,
+        "amort": 628.0,
+        "operating_income": 8197.527792329756,
+        "investment_income": 1796.0,
+        "interest": 1270.751170192848,
+        "pretax": 8722.77662213691,
+        "tax": 2093.466389312858,
+        "net_income": 6629.310232824051,
+        "other_wc_change": 175.18599263999985,
+        "capex": 1116.0,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "receivables_change": 706.1857510200025,
+        "claims_change": 534.7679892965862,
+        "cfo": 7958.963138678656,
+        "cfi": -1116.0,
+        "fcfe": 5842.963138678656,
+        "opening_cash": 12166.23589293189,
+        "revolver_change": -0.0,
+        "cff": -5134.0,
+        "cash_change": 1708.963138678656,
+        "assets": 127139.37521270127,
+        "liabilities": 75491.93960452412,
+        "ebit": 8197.527792329756
+      },
+      {
+        "year": 2030,
+        "revenue": 229054.00869649122,
+        "cash": 15857.964995824768,
+        "receivables": 24973.0821085706,
+        "ppe": 5131.315530475247,
+        "investments": 38584.0,
+        "intangibles": 8060.0,
+        "other_assets": 36849.1606530592,
+        "claims": 19681.177792659837,
+        "debt": 27046.0,
+        "revolver": 0.0,
+        "other_liabilities": 28338.0,
+        "equity": 54246.34549526997,
+        "nci": 144.0,
+        "gross_profit": 33899.993287080695,
+        "direct_costs": 195154.01540941052,
+        "benefits": 170756.45141427178,
+        "products": 24397.563995138742,
+        "cash_opex": 23729.995300956485,
+        "ppe_da": 1062.4307849554775,
+        "amort": 628.0,
+        "operating_income": 8479.567201168733,
+        "investment_income": 1796.0,
+        "interest": 1227.0015602571304,
+        "pretax": 9048.565640911602,
+        "tax": 2171.6557538187844,
+        "net_income": 6876.909887092817,
+        "other_wc_change": 180.44157241919982,
+        "capex": 1116.0,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "receivables_change": 727.3713235505966,
+        "claims_change": 573.2381881357214,
+        "cfo": 8232.76596421422,
+        "cfi": -1116.0,
+        "fcfe": 6116.765964214221,
+        "opening_cash": 13875.199031610548,
+        "revolver_change": -0.0,
+        "cff": -5134.0,
+        "cash_change": 1982.7659642142207,
+        "assets": 129455.52328792983,
+        "liabilities": 75065.17779265984,
+        "ebit": 8479.567201168733
+      }
+    ],
+    "checks": [
+      {
+        "name": "Filing assets aggregation",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing liabilities aggregation",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing balance sheet",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing operating revenue",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing pretax income",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing net income",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing common income",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Filing cash roll-forward incl. FX",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening cash traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening receivables traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening ppe traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening investments traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening intangibles traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening other_assets traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening claims traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening debt traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening other_liabilities traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening equity traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening nci traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Opening revenue traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "Share denominator traces to filing",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2026 balance sheet",
+        "gap": -7.275957614183426e-12,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2026 cash flow ties to cash",
+        "gap": 9.094947017729282e-13,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2026 FCFE cash bridge",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2026 liquidity / revolver",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2026 nonnegative assets / debt",
+        "gap": 4816.0,
+        "tolerance": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2026 finite outputs",
+        "gap": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2027 balance sheet",
+        "gap": 7.275957614183426e-12,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2027 cash flow ties to cash",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2027 FCFE cash bridge",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2027 liquidity / revolver",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2027 nonnegative assets / debt",
+        "gap": 4924.335114340671,
+        "tolerance": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2027 finite outputs",
+        "gap": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2028 balance sheet",
+        "gap": 1.4551915228366852e-11,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2028 cash flow ties to cash",
+        "gap": 9.094947017729282e-13,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2028 FCFE cash bridge",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2028 liquidity / revolver",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2028 nonnegative assets / debt",
+        "gap": 5010.002975648746,
+        "tolerance": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2028 finite outputs",
+        "gap": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2029 balance sheet",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2029 cash flow ties to cash",
+        "gap": 9.094947017729282e-13,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2029 FCFE cash bridge",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2029 liquidity / revolver",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2029 nonnegative assets / debt",
+        "gap": 5077.746315430724,
+        "tolerance": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2029 finite outputs",
+        "gap": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2030 balance sheet",
+        "gap": 1.4551915228366852e-11,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2030 cash flow ties to cash",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2030 FCFE cash bridge",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2030 liquidity / revolver",
+        "gap": 0.0,
+        "tolerance": 1e-06,
+        "pass": true
+      },
+      {
+        "name": "2030 nonnegative assets / debt",
+        "gap": 5131.315530475247,
+        "tolerance": 0.0,
+        "pass": true
+      },
+      {
+        "name": "2030 finite outputs",
+        "gap": 0.0,
+        "pass": true
+      },
+      {
+        "name": "Positive final and terminal FCFE",
+        "gap": 6116.765964214221,
+        "pass": true
+      },
+      {
+        "name": "Direct equity valuation reconciliation",
+        "gap": 7.275957614183426e-12,
+        "tolerance": 1e-06,
+        "pass": true
+      }
+    ],
+    "valid": true,
+    "warnings": [],
+    "valuation": {
+      "pv_flows": 20224.62519455387,
+      "terminal_cash": 7294.685113319576,
+      "terminal_value": 97262.46817759433,
+      "pv_terminal": 60392.34042483083,
+      "equity": 80616.9656193847,
+      "shares": 220.723898,
+      "per_share": 365.23895395950603,
+      "terminal_share": 0.749126935761388,
+      "bridge_gap": 7.275957614183426e-12
+    }
+  },
+  "drivers": {
+    "growth": [
+      "Operating revenue growth",
+      3.0,
+      0.0,
+      6.0,
+      0.1,
+      "%",
+      "Lab 10 base 3%; FY2025 operating revenue grew 12.77%, influenced by mix and pricing. 0\u20136% is an analyst scenario range.",
+      "One aggregate driver does not separate membership, pricing, premiums and Carelon.",
+      "Membership, premium yields, Medicaid rate adequacy and Carelon external revenue."
+    ],
+    "margin_shift": [
+      "Blended gross margin shift",
+      0.0,
+      -1.0,
+      1.0,
+      0.05,
+      "percentage points",
+      "Shift all five base margins: 14.3, 14.5, 14.7, 14.8, 14.8%. FY2025 blended margin 14.2638%. Bounds are analyst stresses.",
+      "This is not medical benefit ratio: benefits and product costs are blended over total operating revenue.",
+      "Medical utilization, pricing, payer mix and Carelon product economics."
+    ],
+    "expense_shift": [
+      "Cash expense / gross profit shift",
+      0.0,
+      -2.0,
+      2.0,
+      0.1,
+      "percentage points",
+      "Shift base expense ratios 71.2, 70.8, 70.4, 70.0, 70.0%. FY2025 proxy is (20984\u2212979)/28183 =71.1989%.",
+      "Efficiency gains may be offset by staffing, compliance or technology costs.",
+      "Reported operating expenses, identified noncash items and sustainable efficiency evidence."
+    ],
+    "claims_days": [
+      "Medical claims payment timing",
+      42.06944941068525,
+      38.0,
+      48.0,
+      0.1,
+      "days",
+      "FY2025 ending claims / annual benefits \u00d7365 =42.07; prior lab history 2024=45.05 and 2023=47.30. Bounds are stresses.",
+      "Ending balance is not an actuarial adequacy test; slower payment is not better underwriting.",
+      "Claims payment patterns, reserve development and statutory filings."
+    ],
+    "capex": [
+      "Annual capital expenditure",
+      1116.0,
+      900.0,
+      1500.0,
+      25.0,
+      "$m",
+      "FY2025 capex 1116; prior lab FY2024=1256, FY2023=1296. Bounds test underinvestment and higher technology spend.",
+      "Flat spending may understate replacement and growth requirements.",
+      "Capital commitments and software investment needed to support services growth."
+    ],
+    "tax": [
+      "Normalized tax rate",
+      24.0,
+      20.0,
+      28.0,
+      0.5,
+      "%",
+      "24% judgment replaces FY2025 effective rate 15.63%; tax benefits are not assumed to repeat.",
+      "Cash taxes may differ from book tax; losses get no automatic tax asset.",
+      "Tax-note changes and a normalized cash-tax reconciliation."
+    ],
+    "investment_income": [
+      "Normalized investment income",
+      1796.0,
+      1400.0,
+      2400.0,
+      25.0,
+      "$m",
+      "2194 reported less 398 equity-method earnings =1796. Portfolio balances held flat.",
+      "Remainder is assumed cash; flat assets and income miss reinvestment, duration and growth.",
+      "Portfolio yields, reinvestment cash flows and upstream cash availability."
+    ],
+    "debt_rate": [
+      "Debt interest rate",
+      4.374960993571741,
+      3.5,
+      6.5,
+      0.1,
+      "%",
+      "FY2025 interest / closing debt =4.375%; applied to opening forecast debt. Not a market quote.",
+      "Closing debt is not average debt; refinancing cost may differ.",
+      "Debt maturity, coupon and refinancing schedules."
+    ],
+    "repayment": [
+      "Annual net debt repayment",
+      1000.0,
+      0.0,
+      2000.0,
+      100.0,
+      "$m",
+      "Lab 10 judgment; assumes other maturities are refinanced and scheduled net paydown stops after 2030.",
+      "A perpetual no-paydown terminal is a classroom simplification.",
+      "Parent debt maturities, leverage targets and refinancing access."
+    ],
+    "buyback": [
+      "Annual buybacks",
+      2605.0,
+      0.0,
+      6000.0,
+      100.0,
+      "$m",
+      "Hold FY2025 repurchases at 2605; dividends fixed at 1529. Upper bound deliberately tests funding strain.",
+      "Payouts can exhaust liquidity; no execution-price/share-reduction schedule is modeled.",
+      "Parent liquidity, regulated dividends, repurchase plans and authorization."
+    ],
+    "ke": [
+      "Cost of equity",
+      10.0,
+      8.0,
+      12.0,
+      0.1,
+      "%",
+      "Lab 10 required-return judgment. 8\u201312% is a sensitivity interval, not an estimated confidence interval.",
+      "Insurer equity risk needs a dated capital-market calibration.",
+      "Risk-free yield, equity risk premium, beta and capital/underwriting risk."
+    ],
+    "terminal_growth": [
+      "Terminal growth",
+      2.5,
+      1.0,
+      3.5,
+      0.1,
+      "%",
+      "Lab 10 mature nominal growth judgment. All rates below the cost-of-equity bounds.",
+      "Extrapolation does not explicitly fund statutory capital growth or portfolio growth.",
+      "Long-run growth, required capital and subsidiary dividend capacity."
+    ]
+  },
+  "sources": {
+    "ELV_K": {
+      "title": "ELV FY2025 Form 10-K",
+      "url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000013/elv-20251231.htm",
+      "published": "2026-02-06",
+      "period": "2025-12-31",
+      "locator": "Printed pp. 71\u201374 consolidated statements; Note 9 PP&E; Note 8 taxes; insurance capital restrictions.",
+      "accessed": "2026-10-19"
+    },
+    "UNH_EPS": {
+      "title": "UnitedHealth FY2025 annual results",
+      "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-01-27-uhg-reports-2025-results-and-issues-2026-outlook.html",
+      "published": "2026-01-27",
+      "period": "FY2025",
+      "locator": "Annual reported earnings $13.23 per share, distinct from adjusted $16.35.",
+      "accessed": "2026-10-19"
+    },
+    "CI_EPS": {
+      "title": "Cigna FY2025 annual results",
+      "url": "https://newsroom.thecignagroup.com/2026-02-05-The-Cigna-Group-Reports-Strong-Fourth-Quarter-and-Full-Year-2025-Results,-Establishes-2026-Outlook-and-Increases-Dividend",
+      "published": "2026-02-05",
+      "period": "FY2025",
+      "locator": "Exhibit 1: annual total GAAP diluted EPS $22.18; segment/divestiture discussion.",
+      "accessed": "2026-10-19"
+    },
+    "ELV_PRICE": {
+      "title": "ELV historical regular-session close",
+      "url": "https://stockanalysis.com/stocks/elv/history/",
+      "period": "2026-09-10",
+      "value": 416.54,
+      "locator": "Sep 10, 2026 row, Close column; not adjusted close or current quote.",
+      "accessed": "2026-10-19"
+    },
+    "UNH_PRICE": {
+      "title": "UNH historical regular-session close",
+      "url": "https://stockanalysis.com/stocks/unh/history/",
+      "period": "2026-09-10",
+      "value": 388.28,
+      "locator": "Sep 10, 2026 row, Close column; not adjusted close or current quote.",
+      "accessed": "2026-10-19"
+    },
+    "CI_PRICE": {
+      "title": "CI historical regular-session close",
+      "url": "https://stockanalysis.com/stocks/ci/history/",
+      "period": "2026-09-10",
+      "value": 280.91,
+      "locator": "Sep 10, 2026 row, Close column; not adjusted close or current quote.",
+      "accessed": "2026-10-19"
+    },
+    "ELV_ORIGIN_PRICE": {
+      "title": "ELV December 31, 2025 unadjusted close",
+      "url": "https://chartexchange.com/symbol/nyse-elv/historical/",
+      "period": "2025-12-31",
+      "value": 350.55,
+      "accessed": "2026-10-19",
+      "locator": "2025-12-31 row Close $350.55; agrees with Yahoo historical Close, not adjusted close."
+    },
+    "ELV_ORIGIN_PRICE_CHECK": {
+      "title": "ELV historical close cross-check",
+      "url": "https://au.finance.yahoo.com/quote/ELV/history/",
+      "period": "2025-12-31",
+      "value": 350.55,
+      "accessed": "2026-10-19",
+      "locator": "31 Dec 2025 row Close 350.55, not dividend-adjusted column."
+    }
+  },
+  "meta": {
+    "ticker": "ELV",
+    "company": "Elevance Health, Inc.",
+    "valuation_date": "2025-12-31",
+    "filing_date": "2026-02-06",
+    "market_reference_date": "2026-09-10",
+    "built": "2026-10-19",
+    "price": 350.55,
+    "units": "USD millions, except dollars per share and million shares",
+    "user": "Buy-side analyst / portfolio manager; fund has no position",
+    "horizon": "Five forecast years 2026\u20132030; 12\u201324 month monitoring",
+    "basis": "Retrospective FY2025-base exercise using the subsequently published 2025 10-K. September 10, 2026 prices are separately dated references; no same-date upside or current recommendation is claimed.",
+    "action": "WATCH / DEFER \u2014 analyst draft; validate medical-cost recovery, regulated capital and parent distribution capacity.",
+    "eligibility": "The supplied Project 1 brief excludes insurers and requires FCFF/WACC and enterprise multiples. This requested ELV/FCFE build is a disclosed departure; instructor acceptance is unresolved.",
+    "limitation": "Consolidated FCFE is a proxy, not verified cash distributable from regulated subsidiaries. A fixed cash floor does not test statutory capital adequacy."
+  },
+  "groups": {
+    "Income statement": [
+      [
+        "Operating revenue",
+        "revenue"
+      ],
+      [
+        "Benefit expense",
+        "benefits"
+      ],
+      [
+        "Product costs",
+        "products"
+      ],
+      [
+        "Blended gross profit",
+        "gross_profit"
+      ],
+      [
+        "Cash operating expense",
+        "cash_opex"
+      ],
+      [
+        "PP&E depreciation / amortization",
+        "ppe_da"
+      ],
+      [
+        "Other intangible amortization",
+        "amort"
+      ],
+      [
+        "Operating income after D&A",
+        "ebit"
+      ],
+      [
+        "Normalized investment income",
+        "investment_income"
+      ],
+      [
+        "Interest expense",
+        "interest"
+      ],
+      [
+        "Pretax income",
+        "pretax"
+      ],
+      [
+        "Tax expense",
+        "tax"
+      ],
+      [
+        "Net income assigned to common",
+        "net_income"
+      ]
+    ],
+    "Balance sheet": [
+      [
+        "Cash",
+        "cash"
+      ],
+      [
+        "Receivables",
+        "receivables"
+      ],
+      [
+        "PP&E",
+        "ppe"
+      ],
+      [
+        "Investments",
+        "investments"
+      ],
+      [
+        "Intangibles",
+        "intangibles"
+      ],
+      [
+        "Other assets incl. goodwill",
+        "other_assets"
+      ],
+      [
+        "TOTAL ASSETS",
+        "assets"
+      ],
+      [
+        "Medical claims payable",
+        "claims"
+      ],
+      [
+        "Debt",
+        "debt"
+      ],
+      [
+        "Revolver",
+        "revolver"
+      ],
+      [
+        "Other liabilities",
+        "other_liabilities"
+      ],
+      [
+        "TOTAL LIABILITIES",
+        "liabilities"
+      ],
+      [
+        "Common equity",
+        "equity"
+      ],
+      [
+        "Noncontrolling interests",
+        "nci"
+      ]
+    ],
+    "Cash flow and equity cash flow": [
+      [
+        "Net income",
+        "net_income"
+      ],
+      [
+        "PP&E D&A addback",
+        "ppe_da"
+      ],
+      [
+        "Intangible amortization addback",
+        "amort"
+      ],
+      [
+        "Receivables increase (cash use)",
+        "receivables_change"
+      ],
+      [
+        "Other working-capital increase (cash use)",
+        "other_wc_change"
+      ],
+      [
+        "Claims increase (cash source)",
+        "claims_change"
+      ],
+      [
+        "CASH FROM OPERATIONS",
+        "cfo"
+      ],
+      [
+        "Capex / investing cash flow",
+        "cfi"
+      ],
+      [
+        "Net debt repayment (cash use)",
+        "repayment"
+      ],
+      [
+        "FCFE before distributions and revolver",
+        "fcfe"
+      ],
+      [
+        "Buybacks (cash use)",
+        "buyback"
+      ],
+      [
+        "Dividends (cash use)",
+        "dividend"
+      ],
+      [
+        "Revolver draw / (repayment)",
+        "revolver_change"
+      ],
+      [
+        "CASH FROM FINANCING",
+        "cff"
+      ],
+      [
+        "Opening cash",
+        "opening_cash"
+      ],
+      [
+        "Closing cash",
+        "cash"
+      ]
+    ]
+  },
+  "scenarios": {
+    "Low": {
+      "inputs": {
+        "growth": 2.0,
+        "margin_shift": -0.5,
+        "expense_shift": 1.0,
+        "claims_days": 42.06944941068525,
+        "capex": 1300.0,
+        "tax": 24.0,
+        "investment_income": 1796.0,
+        "debt_rate": 4.374960993571741,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "ke": 11.0,
+        "terminal_growth": 2.0
+      },
+      "annual_assumptions": {
+        "growth": [
+          0.02,
+          0.02,
+          0.02,
+          0.02,
+          0.02
+        ],
+        "margin": [
+          0.13799999999999998,
+          0.13999999999999999,
+          0.142,
+          0.143,
+          0.143
+        ],
+        "cash_opex_ratio": [
+          0.722,
+          0.718,
+          0.714,
+          0.71,
+          0.71
+        ],
+        "ppe_da_ratio": 0.2092327420388972,
+        "intangible_amort": 628.0,
+        "capex": 1300.0,
+        "tax": 0.24,
+        "benefit_share": 0.8749830284354874,
+        "claims_to_benefits": 0.11525876550872671,
+        "receivables_ratio": 0.10902704672443113,
+        "other_wc_ratio": 0.027046724431128027,
+        "investment_income": 1796.0,
+        "debt_rate": 0.04374960993571741,
+        "net_repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "minimum_cash": 9491.0,
+        "revolver_limit": 5000.0,
+        "revolver_rate": 0.06,
+        "ke": 0.11,
+        "terminal_growth": 0.02,
+        "shares": 220.723898
+      },
+      "rows": [
+        {
+          "year": 2026,
+          "revenue": 201535.68,
+          "cash": 9516.45090935085,
+          "receivables": 21972.84,
+          "ppe": 5000.0,
+          "investments": 38584.0,
+          "intangibles": 10572.0,
+          "other_assets": 36104.88,
+          "claims": 17519.94764043565,
+          "debt": 31046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 44702.2232689152,
+          "nci": 144.0,
+          "gross_profit": 27811.923839999996,
+          "direct_costs": 173723.75616,
+          "benefits": 152005.33827606495,
+          "products": 21718.417883935035,
+          "cash_opex": 20080.209012479998,
+          "ppe_da": 979.0,
+          "amort": 628.0,
+          "operating_income": 6124.714827519998,
+          "investment_income": 1796.0,
+          "interest": 1402.0,
+          "pretax": 6518.714827519998,
+          "tax": 1564.4915586047994,
+          "net_income": 4954.223268915199,
+          "other_wc_change": 106.87999999999981,
+          "capex": 1300.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 430.84000000000015,
+          "claims_change": 435.9476404356501,
+          "cfo": 6459.450909350849,
+          "cfi": -1300.0,
+          "fcfe": 4159.450909350849,
+          "opening_cash": 9491.0,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 25.450909350848633,
+          "assets": 121750.17090935085,
+          "liabilities": 76903.94764043565,
+          "ebit": 6124.714827519998
+        },
+        {
+          "year": 2027,
+          "revenue": 205566.3936,
+          "cash": 9745.38046174865,
+          "receivables": 22412.2968,
+          "ppe": 5253.836289805514,
+          "investments": 38584.0,
+          "intangibles": 9944.0,
+          "other_assets": 36213.8976,
+          "claims": 17828.88407214635,
+          "debt": 30046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 45796.52707940782,
+          "nci": 144.0,
+          "gross_profit": 28779.295103999997,
+          "direct_costs": 176787.09849600002,
+          "benefits": 154685.71083035288,
+          "products": 22101.38766564714,
+          "cash_opex": 20663.533884671997,
+          "ppe_da": 1046.163710194486,
+          "amort": 628.0,
+          "operating_income": 6441.597509133514,
+          "investment_income": 1796.0,
+          "interest": 1358.2503900642826,
+          "pretax": 6879.347119069231,
+          "tax": 1651.0433085766153,
+          "net_income": 5228.303810492615,
+          "other_wc_change": 109.01760000000047,
+          "capex": 1300.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 439.45679999999993,
+          "claims_change": 308.93643171069925,
+          "cfo": 6662.929552397801,
+          "cfi": -1300.0,
+          "fcfe": 4362.929552397801,
+          "opening_cash": 9516.45090935085,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 228.92955239780076,
+          "assets": 122153.41115155416,
+          "liabilities": 76212.88407214635,
+          "ebit": 6441.597509133514
+        },
+        {
+          "year": 2028,
+          "revenue": 209677.721472,
+          "cash": 10318.435822887226,
+          "receivables": 22860.542736,
+          "ppe": 5454.5617166660395,
+          "investments": 38584.0,
+          "intangibles": 9316.0,
+          "other_assets": 36325.095552,
+          "claims": 18143.169982069303,
+          "debt": 29046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 47187.46584548397,
+          "nci": 144.0,
+          "gross_profit": 29774.236449024,
+          "direct_costs": 179903.485022976,
+          "benefits": 157412.4961515019,
+          "products": 22490.98887147411,
+          "cash_opex": 21258.804824603136,
+          "ppe_da": 1099.274573139474,
+          "amort": 628.0,
+          "operating_income": 6788.1570512813905,
+          "investment_income": 1796.0,
+          "interest": 1314.5007801285653,
+          "pretax": 7269.656271152825,
+          "tax": 1744.717505076678,
+          "net_income": 5524.938766076147,
+          "other_wc_change": 111.19795199999984,
+          "capex": 1300.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 448.24593599999935,
+          "claims_change": 314.2859099229536,
+          "cfo": 7007.055361138576,
+          "cfi": -1300.0,
+          "fcfe": 4707.055361138576,
+          "opening_cash": 9745.38046174865,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 573.0553611385758,
+          "assets": 122858.63582755327,
+          "liabilities": 75527.1699820693,
+          "ebit": 6788.1570512813905
+        },
+        {
+          "year": 2029,
+          "revenue": 213871.27590144,
+          "cash": 11219.53603789135,
+          "receivables": 23317.75359072,
+          "ppe": 5613.28881206761,
+          "investments": 38584.0,
+          "intangibles": 8688.0,
+          "other_assets": 36438.51746304,
+          "claims": 18484.464578235504,
+          "debt": 28046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 48848.63132548346,
+          "nci": 144.0,
+          "gross_profit": 30583.59245390592,
+          "direct_costs": 183287.6834475341,
+          "benefits": 160373.61233784835,
+          "products": 22914.071109685756,
+          "cash_opex": 21714.350642273203,
+          "ppe_da": 1141.2729045984297,
+          "amort": 628.0,
+          "operating_income": 7099.968907034287,
+          "investment_income": 1796.0,
+          "interest": 1270.751170192848,
+          "pretax": 7625.217736841439,
+          "tax": 1830.052256841945,
+          "net_income": 5795.165479999494,
+          "other_wc_change": 113.42191104000007,
+          "capex": 1300.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 457.2108547200005,
+          "claims_change": 341.2945961662008,
+          "cfo": 7335.100215004124,
+          "cfi": -1300.0,
+          "fcfe": 5035.100215004124,
+          "opening_cash": 10318.435822887226,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 901.100215004124,
+          "assets": 123861.09590371896,
+          "liabilities": 74868.46457823551,
+          "ebit": 7099.968907034287
+        },
+        {
+          "year": 2030,
+          "revenue": 218148.70141946882,
+          "cash": 12313.651089364364,
+          "receivables": 23784.108662534403,
+          "ppe": 5738.80500206244,
+          "investments": 38584.0,
+          "intangibles": 8060.0,
+          "other_assets": 36554.2078123008,
+          "claims": 18854.153869800215,
+          "debt": 27046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 50652.618696461795,
+          "nci": 144.0,
+          "gross_profit": 31195.26430298404,
+          "direct_costs": 186953.4371164848,
+          "benefits": 163581.08458460533,
+          "products": 23372.35253187947,
+          "cash_opex": 22148.637655118666,
+          "ppe_da": 1174.4838100051697,
+          "amort": 628.0,
+          "operating_income": 7244.142837860205,
+          "investment_income": 1796.0,
+          "interest": 1227.0015602571304,
+          "pretax": 7813.141277603075,
+          "tax": 1875.1539066247378,
+          "net_income": 5937.987370978337,
+          "other_wc_change": 115.69034926080045,
+          "capex": 1300.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 466.35507181440335,
+          "claims_change": 369.6892915647113,
+          "cfo": 7528.115051473013,
+          "cfi": -1300.0,
+          "fcfe": 5228.115051473013,
+          "opening_cash": 11219.53603789135,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 1094.1150514730134,
+          "assets": 125034.77256626202,
+          "liabilities": 74238.15386980021,
+          "ebit": 7244.142837860205
+        }
+      ],
+      "checks": [
+        {
+          "name": "Filing assets aggregation",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing liabilities aggregation",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing balance sheet",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing operating revenue",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing pretax income",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing net income",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing common income",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing cash roll-forward incl. FX",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening cash traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening receivables traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening ppe traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening investments traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening intangibles traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening other_assets traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening claims traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening debt traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening other_liabilities traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening equity traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening nci traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening revenue traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Share denominator traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 balance sheet",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 cash flow ties to cash",
+          "gap": 9.094947017729282e-13,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 nonnegative assets / debt",
+          "gap": 5000.0,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2026 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2027 balance sheet",
+          "gap": -7.275957614183426e-12,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 cash flow ties to cash",
+          "gap": -9.094947017729282e-13,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 nonnegative assets / debt",
+          "gap": 5253.836289805514,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2027 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2028 balance sheet",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 cash flow ties to cash",
+          "gap": 9.094947017729282e-13,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 nonnegative assets / debt",
+          "gap": 5454.5617166660395,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2028 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2029 balance sheet",
+          "gap": -7.275957614183426e-12,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 cash flow ties to cash",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 nonnegative assets / debt",
+          "gap": 5613.28881206761,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2029 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2030 balance sheet",
+          "gap": 1.4551915228366852e-11,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 cash flow ties to cash",
+          "gap": 9.094947017729282e-13,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 nonnegative assets / debt",
+          "gap": 5738.80500206244,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2030 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "Positive final and terminal FCFE",
+          "gap": 5228.115051473013,
+          "pass": true
+        },
+        {
+          "name": "Direct equity valuation reconciliation",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        }
+      ],
+      "valid": true,
+      "warnings": [],
+      "valuation": {
+        "pv_flows": 17149.47117233467,
+        "terminal_cash": 6352.677352502474,
+        "terminal_value": 70585.30391669416,
+        "pv_terminal": 41888.94235077912,
+        "equity": 59038.41352311379,
+        "shares": 220.723898,
+        "per_share": 267.4763089002433,
+        "terminal_share": 0.709520121748858,
+        "bridge_gap": 0.0
+      },
+      "story": "Slower revenue, medical/product cost pressure, weaker efficiency and higher required return."
+    },
+    "Base": {
+      "inputs": {
+        "growth": 3.0,
+        "margin_shift": 0.0,
+        "expense_shift": 0.0,
+        "claims_days": 42.06944941068525,
+        "capex": 1116.0,
+        "tax": 24.0,
+        "investment_income": 1796.0,
+        "debt_rate": 4.374960993571741,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "ke": 10.0,
+        "terminal_growth": 2.5
+      },
+      "annual_assumptions": {
+        "growth": [
+          0.03,
+          0.03,
+          0.03,
+          0.03,
+          0.03
+        ],
+        "margin": [
+          0.143,
+          0.145,
+          0.147,
+          0.148,
+          0.148
+        ],
+        "cash_opex_ratio": [
+          0.712,
+          0.708,
+          0.704,
+          0.7,
+          0.7
+        ],
+        "ppe_da_ratio": 0.2092327420388972,
+        "intangible_amort": 628.0,
+        "capex": 1116.0,
+        "tax": 0.24,
+        "benefit_share": 0.8749830284354874,
+        "claims_to_benefits": 0.11525876550872671,
+        "receivables_ratio": 0.10902704672443113,
+        "other_wc_ratio": 0.027046724431128027,
+        "investment_income": 1796.0,
+        "debt_rate": 0.04374960993571741,
+        "net_repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "minimum_cash": 9491.0,
+        "revolver_limit": 5000.0,
+        "revolver_rate": 0.06,
+        "ke": 0.1,
+        "terminal_growth": 0.025,
+        "shares": 220.723898
+      },
+      "rows": [
+        {
+          "year": 2026,
+          "revenue": 203511.52000000002,
+          "cash": 9994.509708903348,
+          "receivables": 22188.260000000002,
+          "ppe": 4816.0,
+          "investments": 38584.0,
+          "intangibles": 10572.0,
+          "other_assets": 36158.32,
+          "claims": 17589.09169474655,
+          "debt": 31046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 45195.9980141568,
+          "nci": 144.0,
+          "gross_profit": 29102.14736,
+          "direct_costs": 174409.37264000002,
+          "benefits": 152605.24106008065,
+          "products": 21804.13157991937,
+          "cash_opex": 20720.728920319998,
+          "ppe_da": 979.0,
+          "amort": 628.0,
+          "operating_income": 6774.418439680001,
+          "investment_income": 1796.0,
+          "interest": 1402.0,
+          "pretax": 7168.418439680001,
+          "tax": 1720.4204255232003,
+          "net_income": 5447.998014156801,
+          "other_wc_change": 160.3200000000005,
+          "capex": 1116.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 646.260000000002,
+          "claims_change": 505.09169474654846,
+          "cfo": 6753.509708903347,
+          "cfi": -1116.0,
+          "fcfe": 4637.509708903347,
+          "opening_cash": 9491.0,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 503.509708903347,
+          "assets": 122313.08970890334,
+          "liabilities": 76973.09169474654,
+          "ebit": 6774.418439680001
+        },
+        {
+          "year": 2027,
+          "revenue": 209616.86560000002,
+          "cash": 10869.510186922305,
+          "receivables": 22853.9078,
+          "ppe": 4924.335114340671,
+          "investments": 38584.0,
+          "intangibles": 9944.0,
+          "other_assets": 36323.4496,
+          "claims": 18074.48494863308,
+          "debt": 30046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 46896.7177526299,
+          "nci": 144.0,
+          "gross_profit": 30394.445512000002,
+          "direct_costs": 179222.420088,
+          "benefits": 156816.57589213538,
+          "products": 22405.84419586463,
+          "cash_opex": 21519.267422496,
+          "ppe_da": 1007.6648856593289,
+          "amort": 628.0,
+          "operating_income": 7239.513203844674,
+          "investment_income": 1796.0,
+          "interest": 1358.2503900642826,
+          "pretax": 7677.262813780391,
+          "tax": 1842.5430753072937,
+          "net_income": 5834.719738473097,
+          "other_wc_change": 165.1296,
+          "capex": 1116.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 665.6477999999988,
+          "claims_change": 485.39325388653015,
+          "cfo": 7125.000478018957,
+          "cfi": -1116.0,
+          "fcfe": 5009.000478018957,
+          "opening_cash": 9994.509708903348,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 875.0004780189574,
+          "assets": 123499.20270126298,
+          "liabilities": 76458.48494863308,
+          "ebit": 7239.513203844674
+        },
+        {
+          "year": 2028,
+          "revenue": 215905.37156800003,
+          "cash": 12166.23589293189,
+          "receivables": 23539.525034000002,
+          "ppe": 5010.002975648746,
+          "investments": 38584.0,
+          "intangibles": 9316.0,
+          "other_assets": 36493.533088000004,
+          "claims": 18573.17161522753,
+          "debt": 29046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 49008.125375353105,
+          "nci": 144.0,
+          "gross_profit": 31738.089620496004,
+          "direct_costs": 184167.28194750403,
+          "benefits": 161143.24609715934,
+          "products": 23024.03585034469,
+          "cash_opex": 22343.615092829186,
+          "ppe_da": 1030.332138691925,
+          "amort": 628.0,
+          "operating_income": 7736.142388974893,
+          "investment_income": 1796.0,
+          "interest": 1314.5007801285653,
+          "pretax": 8217.641608846328,
+          "tax": 1972.2339861231187,
+          "net_income": 6245.40762272321,
+          "other_wc_change": 170.08348800000033,
+          "capex": 1116.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 685.6172340000012,
+          "claims_change": 498.6866665944508,
+          "cfo": 7546.725706009584,
+          "cfi": -1116.0,
+          "fcfe": 5430.725706009584,
+          "opening_cash": 10869.510186922305,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 1296.7257060095844,
+          "assets": 125109.29699058065,
+          "liabilities": 75957.17161522753,
+          "ebit": 7736.142388974893
+        },
+        {
+          "year": 2029,
+          "revenue": 222382.53271504003,
+          "cash": 13875.199031610548,
+          "receivables": 24245.710785020005,
+          "ppe": 5077.746315430724,
+          "investments": 38584.0,
+          "intangibles": 8688.0,
+          "other_assets": 36668.71908064,
+          "claims": 19107.939604524116,
+          "debt": 28046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 51503.435608177155,
+          "nci": 144.0,
+          "gross_profit": 32912.614841825925,
+          "direct_costs": 189469.91787321412,
+          "benefits": 165782.96253812796,
+          "products": 23686.955335086153,
+          "cash_opex": 23038.830389278148,
+          "ppe_da": 1048.2566602180214,
+          "amort": 628.0,
+          "operating_income": 8197.527792329756,
+          "investment_income": 1796.0,
+          "interest": 1270.751170192848,
+          "pretax": 8722.77662213691,
+          "tax": 2093.466389312858,
+          "net_income": 6629.310232824051,
+          "other_wc_change": 175.18599263999985,
+          "capex": 1116.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 706.1857510200025,
+          "claims_change": 534.7679892965862,
+          "cfo": 7958.963138678656,
+          "cfi": -1116.0,
+          "fcfe": 5842.963138678656,
+          "opening_cash": 12166.23589293189,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 1708.963138678656,
+          "assets": 127139.37521270127,
+          "liabilities": 75491.93960452412,
+          "ebit": 8197.527792329756
+        },
+        {
+          "year": 2030,
+          "revenue": 229054.00869649122,
+          "cash": 15857.964995824768,
+          "receivables": 24973.0821085706,
+          "ppe": 5131.315530475247,
+          "investments": 38584.0,
+          "intangibles": 8060.0,
+          "other_assets": 36849.1606530592,
+          "claims": 19681.177792659837,
+          "debt": 27046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 54246.34549526997,
+          "nci": 144.0,
+          "gross_profit": 33899.993287080695,
+          "direct_costs": 195154.01540941052,
+          "benefits": 170756.45141427178,
+          "products": 24397.563995138742,
+          "cash_opex": 23729.995300956485,
+          "ppe_da": 1062.4307849554775,
+          "amort": 628.0,
+          "operating_income": 8479.567201168733,
+          "investment_income": 1796.0,
+          "interest": 1227.0015602571304,
+          "pretax": 9048.565640911602,
+          "tax": 2171.6557538187844,
+          "net_income": 6876.909887092817,
+          "other_wc_change": 180.44157241919982,
+          "capex": 1116.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 727.3713235505966,
+          "claims_change": 573.2381881357214,
+          "cfo": 8232.76596421422,
+          "cfi": -1116.0,
+          "fcfe": 6116.765964214221,
+          "opening_cash": 13875.199031610548,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 1982.7659642142207,
+          "assets": 129455.52328792983,
+          "liabilities": 75065.17779265984,
+          "ebit": 8479.567201168733
+        }
+      ],
+      "checks": [
+        {
+          "name": "Filing assets aggregation",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing liabilities aggregation",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing balance sheet",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing operating revenue",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing pretax income",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing net income",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing common income",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing cash roll-forward incl. FX",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening cash traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening receivables traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening ppe traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening investments traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening intangibles traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening other_assets traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening claims traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening debt traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening other_liabilities traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening equity traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening nci traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening revenue traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Share denominator traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 balance sheet",
+          "gap": -7.275957614183426e-12,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 cash flow ties to cash",
+          "gap": 9.094947017729282e-13,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 nonnegative assets / debt",
+          "gap": 4816.0,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2026 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2027 balance sheet",
+          "gap": 7.275957614183426e-12,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 cash flow ties to cash",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 nonnegative assets / debt",
+          "gap": 4924.335114340671,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2027 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2028 balance sheet",
+          "gap": 1.4551915228366852e-11,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 cash flow ties to cash",
+          "gap": 9.094947017729282e-13,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 nonnegative assets / debt",
+          "gap": 5010.002975648746,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2028 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2029 balance sheet",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 cash flow ties to cash",
+          "gap": 9.094947017729282e-13,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 nonnegative assets / debt",
+          "gap": 5077.746315430724,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2029 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2030 balance sheet",
+          "gap": 1.4551915228366852e-11,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 cash flow ties to cash",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 nonnegative assets / debt",
+          "gap": 5131.315530475247,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2030 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "Positive final and terminal FCFE",
+          "gap": 6116.765964214221,
+          "pass": true
+        },
+        {
+          "name": "Direct equity valuation reconciliation",
+          "gap": 7.275957614183426e-12,
+          "tolerance": 1e-06,
+          "pass": true
+        }
+      ],
+      "valid": true,
+      "warnings": [],
+      "valuation": {
+        "pv_flows": 20224.62519455387,
+        "terminal_cash": 7294.685113319576,
+        "terminal_value": 97262.46817759433,
+        "pv_terminal": 60392.34042483083,
+        "equity": 80616.9656193847,
+        "shares": 220.723898,
+        "per_share": 365.23895395950603,
+        "terminal_share": 0.749126935761388,
+        "bridge_gap": 7.275957614183426e-12
+      },
+      "story": "Modest growth and gradual margin/expense recovery with unchanged cash and capital simplifications."
+    },
+    "High": {
+      "inputs": {
+        "growth": 4.0,
+        "margin_shift": 0.5,
+        "expense_shift": -0.5,
+        "claims_days": 42.06944941068525,
+        "capex": 1116.0,
+        "tax": 24.0,
+        "investment_income": 1796.0,
+        "debt_rate": 4.374960993571741,
+        "repayment": 1000.0,
+        "buyback": 2605.0,
+        "ke": 9.0,
+        "terminal_growth": 3.0
+      },
+      "annual_assumptions": {
+        "growth": [
+          0.04,
+          0.04,
+          0.04,
+          0.04,
+          0.04
+        ],
+        "margin": [
+          0.148,
+          0.15,
+          0.152,
+          0.153,
+          0.153
+        ],
+        "cash_opex_ratio": [
+          0.707,
+          0.703,
+          0.699,
+          0.695,
+          0.695
+        ],
+        "ppe_da_ratio": 0.2092327420388972,
+        "intangible_amort": 628.0,
+        "capex": 1116.0,
+        "tax": 0.24,
+        "benefit_share": 0.8749830284354874,
+        "claims_to_benefits": 0.11525876550872671,
+        "receivables_ratio": 0.10902704672443113,
+        "other_wc_ratio": 0.027046724431128027,
+        "investment_income": 1796.0,
+        "debt_rate": 0.04374960993571741,
+        "net_repayment": 1000.0,
+        "buyback": 2605.0,
+        "dividend": 1529.0,
+        "minimum_cash": 9491.0,
+        "revolver_limit": 5000.0,
+        "revolver_rate": 0.06,
+        "ke": 0.09,
+        "terminal_growth": 0.03,
+        "shares": 220.723898
+      },
+      "rows": [
+        {
+          "year": 2026,
+          "revenue": 205487.36000000002,
+          "cash": 10195.096073084307,
+          "receivables": 22403.68,
+          "ppe": 4816.0,
+          "investments": 38584.0,
+          "intangibles": 10572.0,
+          "other_assets": 36211.76,
+          "claims": 17656.243125013905,
+          "debt": 31046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 45598.292948070404,
+          "nci": 144.0,
+          "gross_profit": 30412.12928,
+          "direct_costs": 175075.23072000002,
+          "benefits": 153187.8555794273,
+          "products": 21887.375140572723,
+          "cash_opex": 21501.375400959998,
+          "ppe_da": 979.0,
+          "amort": 628.0,
+          "operating_income": 7303.753879040003,
+          "investment_income": 1796.0,
+          "interest": 1402.0,
+          "pretax": 7697.753879040003,
+          "tax": 1847.4609309696007,
+          "net_income": 5850.292948070402,
+          "other_wc_change": 213.76000000000042,
+          "capex": 1116.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 861.6800000000003,
+          "claims_change": 572.2431250139052,
+          "cfo": 6954.096073084307,
+          "cfi": -1116.0,
+          "fcfe": 4838.096073084307,
+          "opening_cash": 9491.0,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 704.0960730843071,
+          "assets": 122782.53607308431,
+          "liabilities": 77040.2431250139,
+          "ebit": 7303.753879040003
+        },
+        {
+          "year": 2027,
+          "revenue": 213706.8544,
+          "cash": 11450.719707159553,
+          "receivables": 23299.8272,
+          "ppe": 4924.335114340671,
+          "investments": 38584.0,
+          "intangibles": 9944.0,
+          "other_assets": 36434.070400000004,
+          "claims": 18319.388406704566,
+          "debt": 30046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 47789.56401479566,
+          "nci": 144.0,
+          "gross_profit": 32056.02816,
+          "direct_costs": 181650.82624000002,
+          "benefits": 158941.39006128372,
+          "products": 22709.436178716307,
+          "cash_opex": 22535.38779648,
+          "ppe_da": 1007.6648856593289,
+          "amort": 628.0,
+          "operating_income": 7884.975477860671,
+          "investment_income": 1796.0,
+          "interest": 1358.2503900642826,
+          "pretax": 8322.725087796389,
+          "tax": 1997.4540210711332,
+          "net_income": 6325.271066725256,
+          "other_wc_change": 222.3103999999999,
+          "capex": 1116.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 896.1471999999994,
+          "claims_change": 663.1452816906603,
+          "cfo": 7505.623634075246,
+          "cfi": -1116.0,
+          "fcfe": 5389.623634075246,
+          "opening_cash": 10195.096073084307,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 1255.6236340752457,
+          "assets": 124636.95242150023,
+          "liabilities": 76703.38840670456,
+          "ebit": 7884.975477860671
+        },
+        {
+          "year": 2028,
+          "revenue": 222255.12857600002,
+          "cash": 13217.558487156755,
+          "receivables": 24231.820288000003,
+          "ppe": 5010.002975648746,
+          "investments": 38584.0,
+          "intangibles": 9316.0,
+          "other_assets": 36665.273216,
+          "claims": 19007.33532193046,
+          "debt": 29046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 50489.319644875046,
+          "nci": 144.0,
+          "gross_profit": 33782.779543552,
+          "direct_costs": 188472.34903244802,
+          "benefits": 164910.10673276157,
+          "products": 23562.242299686448,
+          "cash_opex": 23614.162900942847,
+          "ppe_da": 1030.332138691925,
+          "amort": 628.0,
+          "operating_income": 8510.28450391723,
+          "investment_income": 1796.0,
+          "interest": 1314.5007801285653,
+          "pretax": 8991.783723788665,
+          "tax": 2158.0280937092793,
+          "net_income": 6833.755630079386,
+          "other_wc_change": 231.20281600000018,
+          "capex": 1116.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 931.9930880000029,
+          "claims_change": 687.9469152258935,
+          "cfo": 8016.8387799972015,
+          "cfi": -1116.0,
+          "fcfe": 5900.8387799972015,
+          "opening_cash": 11450.719707159553,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 1766.8387799972015,
+          "assets": 127024.65496680551,
+          "liabilities": 76391.33532193046,
+          "ebit": 8510.28450391723
+        },
+        {
+          "year": 2029,
+          "revenue": 231145.33371904003,
+          "cash": 15493.969704516989,
+          "receivables": 25201.093099520003,
+          "ppe": 5077.746315430724,
+          "investments": 38584.0,
+          "intangibles": 8688.0,
+          "other_assets": 36905.72414464,
+          "claims": 19744.31785186569,
+          "debt": 28046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 53678.21541224203,
+          "nci": 144.0,
+          "gross_profit": 35365.23605901312,
+          "direct_costs": 195780.09766002692,
+          "benefits": 171304.26275796583,
+          "products": 24475.83490206109,
+          "cash_opex": 24578.839061014118,
+          "ppe_da": 1048.2566602180214,
+          "amort": 628.0,
+          "operating_income": 9110.140337780982,
+          "investment_income": 1796.0,
+          "interest": 1270.751170192848,
+          "pretax": 9635.389167588135,
+          "tax": 2312.493400221152,
+          "net_income": 7322.895767366983,
+          "other_wc_change": 240.45092864000046,
+          "capex": 1116.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 969.2728115200007,
+          "claims_change": 736.9825299352306,
+          "cfo": 8526.411217360233,
+          "cfi": -1116.0,
+          "fcfe": 6410.411217360233,
+          "opening_cash": 13217.558487156755,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 2276.4112173602334,
+          "assets": 129950.53326410771,
+          "liabilities": 76128.3178518657,
+          "ebit": 9110.140337780982
+        },
+        {
+          "year": 2030,
+          "revenue": 240391.14706780165,
+          "cash": 18139.340118637527,
+          "receivables": 26209.136823500805,
+          "ppe": 5131.315530475247,
+          "investments": 38584.0,
+          "intangibles": 8060.0,
+          "other_assets": 37155.7931104256,
+          "claims": 20534.090565940318,
+          "debt": 27046.0,
+          "revolver": 0.0,
+          "other_liabilities": 28338.0,
+          "equity": 57217.49501709887,
+          "nci": 144.0,
+          "gross_profit": 36779.84550137365,
+          "direct_costs": 203611.30156642798,
+          "benefits": 178156.43326828445,
+          "products": 25454.868298143527,
+          "cash_opex": 25561.992623454687,
+          "ppe_da": 1062.4307849554775,
+          "amort": 628.0,
+          "operating_income": 9527.422092963488,
+          "investment_income": 1796.0,
+          "interest": 1227.0015602571304,
+          "pretax": 10096.420532706357,
+          "tax": 2423.1409278495257,
+          "net_income": 7673.279604856832,
+          "other_wc_change": 250.0689657856004,
+          "capex": 1116.0,
+          "repayment": 1000.0,
+          "buyback": 2605.0,
+          "dividend": 1529.0,
+          "receivables_change": 1008.0437239808016,
+          "claims_change": 789.7727140746283,
+          "cfo": 8895.370414120536,
+          "cfi": -1116.0,
+          "fcfe": 6779.370414120536,
+          "opening_cash": 15493.969704516989,
+          "revolver_change": -0.0,
+          "cff": -5134.0,
+          "cash_change": 2645.370414120536,
+          "assets": 133279.58558303918,
+          "liabilities": 75918.09056594032,
+          "ebit": 9527.422092963488
+        }
+      ],
+      "checks": [
+        {
+          "name": "Filing assets aggregation",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing liabilities aggregation",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing balance sheet",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing operating revenue",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing pretax income",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing net income",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing common income",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Filing cash roll-forward incl. FX",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening cash traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening receivables traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening ppe traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening investments traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening intangibles traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening other_assets traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening claims traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening debt traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening other_liabilities traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening equity traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening nci traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Opening revenue traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "Share denominator traces to filing",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 balance sheet",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 cash flow ties to cash",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2026 nonnegative assets / debt",
+          "gap": 4816.0,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2026 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2027 balance sheet",
+          "gap": 1.4551915228366852e-11,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 cash flow ties to cash",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2027 nonnegative assets / debt",
+          "gap": 4924.335114340671,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2027 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2028 balance sheet",
+          "gap": 7.275957614183426e-12,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 cash flow ties to cash",
+          "gap": 9.094947017729282e-13,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2028 nonnegative assets / debt",
+          "gap": 5010.002975648746,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2028 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2029 balance sheet",
+          "gap": -1.4551915228366852e-11,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 cash flow ties to cash",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2029 nonnegative assets / debt",
+          "gap": 5077.746315430724,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2029 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2030 balance sheet",
+          "gap": -7.275957614183426e-12,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 cash flow ties to cash",
+          "gap": 1.8189894035458565e-12,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 FCFE cash bridge",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 liquidity / revolver",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        },
+        {
+          "name": "2030 nonnegative assets / debt",
+          "gap": 5131.315530475247,
+          "tolerance": 0.0,
+          "pass": true
+        },
+        {
+          "name": "2030 finite outputs",
+          "gap": 0.0,
+          "pass": true
+        },
+        {
+          "name": "Positive final and terminal FCFE",
+          "gap": 6779.370414120536,
+          "pass": true
+        },
+        {
+          "name": "Direct equity valuation reconciliation",
+          "gap": 0.0,
+          "tolerance": 1e-06,
+          "pass": true
+        }
+      ],
+      "valid": true,
+      "warnings": [],
+      "valuation": {
+        "pv_flows": 22478.9113901438,
+        "terminal_cash": 8012.7515265441525,
+        "terminal_value": 133545.8587757359,
+        "pv_terminal": 86795.64512851706,
+        "equity": 109274.55651866086,
+        "shares": 220.723898,
+        "per_share": 495.073517225855,
+        "terminal_share": 0.7942896122730541,
+        "bridge_gap": 0.0
+      },
+      "story": "Stronger growth, better blended margin and efficiency, with a lower required return."
+    }
+  },
+  "sensitivity": [
+    {
+      "driver": "growth",
+      "label": "Operating revenue growth",
+      "band": "Full control range",
+      "low_input": 0.0,
+      "high_input": 6.0,
+      "units": "%",
+      "low": {
+        "ebit": 7082.298815044522,
+        "fcfe": 5389.4166985938955,
+        "value": 332.81009199900325
+      },
+      "high": {
+        "ebit": 10049.460351133142,
+        "fcfe": 6893.878295467359,
+        "value": 399.74954192336185
+      },
+      "valid": true,
+      "ebit_span": 2967.161536088621,
+      "fcfe_span": 1504.4615968734633,
+      "value_span": 66.9394499243586
+    },
+    {
+      "driver": "growth",
+      "label": "Operating revenue growth",
+      "band": "Alternative local range",
+      "low_input": 2.5,
+      "high_input": 3.5,
+      "units": "%",
+      "low": {
+        "ebit": 8235.107533953209,
+        "fcfe": 5992.1136049876195,
+        "value": 359.6906497423136
+      },
+      "high": {
+        "ebit": 8728.820024107505,
+        "fcfe": 6242.8009276735465,
+        "value": 370.84509658575973
+      },
+      "valid": true,
+      "ebit_span": 493.71249015429566,
+      "fcfe_span": 250.68732268592703,
+      "value_span": 11.154446843446124
+    },
+    {
+      "driver": "margin_shift",
+      "label": "Blended gross margin shift",
+      "band": "Full control range",
+      "low_input": -1.0,
+      "high_input": 1.0,
+      "units": "percentage points",
+      "low": {
+        "ebit": 7792.405175079259,
+        "fcfe": 5601.250972134291,
+        "value": 338.08085598366023
+      },
+      "high": {
+        "ebit": 9166.729227258207,
+        "fcfe": 6632.280956294151,
+        "value": 392.3970519353518
+      },
+      "valid": true,
+      "ebit_span": 1374.3240521789485,
+      "fcfe_span": 1031.0299841598599,
+      "value_span": 54.316195951691554
+    },
+    {
+      "driver": "margin_shift",
+      "label": "Blended gross margin shift",
+      "band": "Alternative local range",
+      "low_input": -0.25,
+      "high_input": 0.25,
+      "units": "percentage points",
+      "low": {
+        "ebit": 8307.776694646365,
+        "fcfe": 5987.887216194235,
+        "value": 358.4494294655444
+      },
+      "high": {
+        "ebit": 8651.357707691104,
+        "fcfe": 6245.644712234203,
+        "value": 372.0284784534674
+      },
+      "valid": true,
+      "ebit_span": 343.58101304473894,
+      "fcfe_span": 257.7574960399679,
+      "value_span": 13.579048987922988
+    },
+    {
+      "driver": "expense_shift",
+      "label": "Cash expense / gross profit shift",
+      "band": "Full control range",
+      "low_input": -2.0,
+      "high_input": 2.0,
+      "units": "percentage points",
+      "low": {
+        "ebit": 9157.567066910347,
+        "fcfe": 6632.045862177849,
+        "value": 393.2407648024165
+      },
+      "high": {
+        "ebit": 7801.567335427118,
+        "fcfe": 5601.4860662505935,
+        "value": 337.2371431165956
+      },
+      "valid": true,
+      "ebit_span": 1355.999731483229,
+      "fcfe_span": 1030.5597959272554,
+      "value_span": 56.00362168582092
+    },
+    {
+      "driver": "expense_shift",
+      "label": "Cash expense / gross profit shift",
+      "band": "Alternative local range",
+      "low_input": -0.5,
+      "high_input": 0.5,
+      "units": "percentage points",
+      "low": {
+        "ebit": 8649.067167604137,
+        "fcfe": 6245.585938705128,
+        "value": 372.2394066702336
+      },
+      "high": {
+        "ebit": 8310.06723473333,
+        "fcfe": 5987.945989723313,
+        "value": 358.23850124877833
+      },
+      "valid": true,
+      "ebit_span": 338.99993287080724,
+      "fcfe_span": 257.639948981815,
+      "value_span": 14.000905421455286
+    },
+    {
+      "driver": "claims_days",
+      "label": "Medical claims payment timing",
+      "band": "Full control range",
+      "low_input": 38.0,
+      "high_input": 48.0,
+      "units": "days",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6061.315659074294,
+        "value": 355.1730249884909
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6197.575628283714,
+        "value": 379.5142951596885
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 136.25996920941998,
+      "value_span": 24.341270171197607
+    },
+    {
+      "driver": "claims_days",
+      "label": "Medical claims payment timing",
+      "band": "Alternative local range",
+      "low_input": 41.06944941068525,
+      "high_input": 43.06944941068525,
+      "units": "days",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6103.1399672932785,
+        "value": 362.83186865010777
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6130.391961135163,
+        "value": 367.64603926890425
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 27.25199384188454,
+      "value_span": 4.8141706187964814
+    },
+    {
+      "driver": "capex",
+      "label": "Annual capital expenditure",
+      "band": "Full control range",
+      "low_input": 900.0,
+      "high_input": 1500.0,
+      "units": "$m",
+      "low": {
+        "ebit": 8611.107708835763,
+        "fcfe": 6301.1962423741315,
+        "value": 375.7625643050339
+      },
+      "high": {
+        "ebit": 8245.717409760678,
+        "fcfe": 5788.889914152154,
+        "value": 346.5303133452342
+      },
+      "valid": true,
+      "ebit_span": 365.39029907508484,
+      "fcfe_span": 512.3063282219773,
+      "value_span": 29.23225095979967
+    },
+    {
+      "driver": "capex",
+      "label": "Annual capital expenditure",
+      "band": "Alternative local range",
+      "low_input": 1016.0,
+      "high_input": 1216.0,
+      "units": "$m",
+      "low": {
+        "ebit": 8540.465584347912,
+        "fcfe": 6202.150352251214,
+        "value": 370.11099578613914
+      },
+      "high": {
+        "ebit": 8418.668817989552,
+        "fcfe": 6031.381576177224,
+        "value": 360.36691213287276
+      },
+      "valid": true,
+      "ebit_span": 121.7967663583604,
+      "fcfe_span": 170.76877607399,
+      "value_span": 9.744083653266387
+    },
+    {
+      "driver": "tax",
+      "label": "Normalized tax rate",
+      "band": "Full control range",
+      "low_input": 20.0,
+      "high_input": 28.0,
+      "units": "%",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6478.708589850685,
+        "value": 384.7016934888646
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 5754.823338577756,
+        "value": 345.77621443014743
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 723.885251272929,
+      "value_span": 38.925479058717144
+    },
+    {
+      "driver": "tax",
+      "label": "Normalized tax rate",
+      "band": "Alternative local range",
+      "low_input": 23.0,
+      "high_input": 25.0,
+      "units": "%",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6207.251620623338,
+        "value": 370.10463884184566
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6026.280307805105,
+        "value": 360.3732690771664
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 180.97131281823295,
+      "value_span": 9.731369764679243
+    },
+    {
+      "driver": "investment_income",
+      "label": "Normalized investment income",
+      "band": "Full control range",
+      "low_input": 1400.0,
+      "high_input": 2400.0,
+      "units": "$m",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 5815.805964214221,
+        "value": 348.49949288664004
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6575.805964214222,
+        "value": 390.7708592322613
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 760.0000000000009,
+      "value_span": 42.27136634562123
+    },
+    {
+      "driver": "investment_income",
+      "label": "Normalized investment income",
+      "band": "Alternative local range",
+      "low_input": 1696.0,
+      "high_input": 1896.0,
+      "units": "$m",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6040.76596421422,
+        "value": 361.0118173249438
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6192.765964214221,
+        "value": 369.46609059406813
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 152.0000000000009,
+      "value_span": 8.454273269124315
+    },
+    {
+      "driver": "debt_rate",
+      "label": "Debt interest rate",
+      "band": "Full control range",
+      "low_input": 3.5,
+      "high_input": 6.5,
+      "units": "%",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6303.26355000964,
+        "value": 375.86208343362165
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 5663.814750009639,
+        "value": 339.4359038884891
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 639.448800000001,
+      "value_span": 36.42617954513253
+    },
+    {
+      "driver": "debt_rate",
+      "label": "Debt interest rate",
+      "band": "Alternative local range",
+      "low_input": 3.874960993571741,
+      "high_input": 4.874960993571741,
+      "units": "%",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6223.340764214223,
+        "value": 371.30958428026486
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6010.191164214221,
+        "value": 359.16832363874727
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 213.14960000000156,
+      "value_span": 12.14126064151759
+    },
+    {
+      "driver": "repayment",
+      "label": "Annual net debt repayment",
+      "band": "Full control range",
+      "low_input": 0.0,
+      "high_input": 2000.0,
+      "units": "$m",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6983.767150009639,
+        "value": 376.2663777927091
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 5249.764778418801,
+        "value": 353.9930656140577
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 1734.0023715908383,
+      "value_span": 22.273312178651395
+    },
+    {
+      "driver": "repayment",
+      "label": "Annual net debt repayment",
+      "band": "Alternative local range",
+      "low_input": 750.0,
+      "high_input": 1250.0,
+      "units": "$m",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6333.5162606630765,
+        "value": 367.9958099178068
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 5900.015667765365,
+        "value": 362.48209800120515
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 433.5005928977116,
+      "value_span": 5.513711916601665
+    },
+    {
+      "driver": "buyback",
+      "label": "Annual buybacks",
+      "band": "Full control range",
+      "low_input": 0.0,
+      "high_input": 6000.0,
+      "units": "$m",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 365.23895395950603
+      },
+      "high": {
+        "ebit": null,
+        "fcfe": null,
+        "value": null
+      },
+      "valid": false,
+      "ebit_span": null,
+      "fcfe_span": null,
+      "value_span": null
+    },
+    {
+      "driver": "buyback",
+      "label": "Annual buybacks",
+      "band": "Alternative local range",
+      "low_input": 2105.0,
+      "high_input": 3105.0,
+      "units": "$m",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 365.23895395950603
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 365.23895395950603
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 0.0,
+      "value_span": 0.0
+    },
+    {
+      "driver": "ke",
+      "label": "Cost of equity",
+      "band": "Full control range",
+      "low_input": 8.0,
+      "high_input": 12.0,
+      "units": "%",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 505.71502041826346
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 284.3095688230152
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 0.0,
+      "value_span": 221.40545159524828
+    },
+    {
+      "driver": "ke",
+      "label": "Cost of equity",
+      "band": "Alternative local range",
+      "low_input": 9.75,
+      "high_input": 10.25,
+      "units": "%",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 378.5301088147895
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 352.8129222316976
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 0.0,
+      "value_span": 25.717186583091916
+    },
+    {
+      "driver": "terminal_growth",
+      "label": "Terminal growth",
+      "band": "Full control range",
+      "low_input": 1.0,
+      "high_input": 3.5,
+      "units": "%",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 316.30051944886907
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 410.41289350778635
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 0.0,
+      "value_span": 94.11237405891728
+    },
+    {
+      "driver": "terminal_growth",
+      "label": "Terminal growth",
+      "band": "Alternative local range",
+      "low_input": 2.25,
+      "high_input": 2.75,
+      "units": "%",
+      "low": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 355.7669988929311
+      },
+      "high": {
+        "ebit": 8479.567201168733,
+        "fcfe": 6116.765964214221,
+        "value": 375.3641473065344
+      },
+      "valid": true,
+      "ebit_span": 0.0,
+      "fcfe_span": 0.0,
+      "value_span": 19.597148413603293
+    }
+  ],
+  "grid": [
+    {
+      "ke": 8.0,
+      "values": [
+        413.3794929132552,
+        439.42284682492414,
+        469.8067597218714,
+        505.71502041826346,
+        548.8049332539339,
+        601.470382275309
+      ]
+    },
+    {
+      "ke": 9.0,
+      "values": [
+        358.7045414265287,
+        377.7392437400802,
+        399.4931892412821,
+        424.59389558882253,
+        453.8780529942865,
+        488.48660265528946
+      ]
+    },
+    {
+      "ke": 10.0,
+      "values": [
+        316.30051944886907,
+        330.6941766578799,
+        346.8870410180172,
+        365.23895395950603,
+        386.21256874977905,
+        410.41289350778635
+      ]
+    },
+    {
+      "ke": 11.0,
+      "values": [
+        282.4799917999206,
+        293.6586019593658,
+        306.0792799143051,
+        319.9612140992371,
+        335.5783900572857,
+        353.2778561430741
+      ]
+    },
+    {
+      "ke": 12.0,
+      "values": [
+        254.89677999140824,
+        263.7673036072897,
+        273.52487958475933,
+        284.3095688230152,
+        296.29255686552176,
+        309.68530820714665
+      ]
+    }
+  ],
+  "reverse": {
+    "solved": true,
+    "target": 350.55,
+    "ke": 10.29735055938363,
+    "value": 350.5499999960022,
+    "message": "Retrospective implied cost of equity at the December 31, 2025 close; later filing evidence, not a contemporaneous backtest."
+  },
+  "comps": {
+    "rows": [
+      {
+        "ticker": "ELV",
+        "price": 416.54,
+        "eps": 25.21,
+        "policy": "TARGET",
+        "pe": 16.522808409361364,
+        "implied_elv": 416.54
+      },
+      {
+        "ticker": "UNH",
+        "price": 388.28,
+        "eps": 13.23,
+        "policy": "QUALIFY",
+        "pe": 29.34845049130763,
+        "implied_elv": 739.8744368858654
+      },
+      {
+        "ticker": "CI",
+        "price": 280.91,
+        "eps": 22.18,
+        "policy": "QUALIFY",
+        "pe": 12.665013525698829,
+        "implied_elv": 319.2849909828675
+      }
+    ],
+    "pe_range": [
+      319.2849909828675,
+      739.8744368858654
+    ],
+    "median_price": 529.5797139343665,
+    "price_date": "2026-09-10",
+    "earnings_period": "FY2025 total GAAP diluted EPS",
+    "leave_one_out": [
+      {
+        "removed": "UNH",
+        "remaining": "CI",
+        "value": 319.2849909828675
+      },
+      {
+        "removed": "CI",
+        "remaining": "UNH",
+        "value": 739.8744368858654
+      }
+    ]
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "ELV_K": {
+    "title": "ELV FY2025 Form 10-K",
+    "url": "https://www.sec.gov/Archives/edgar/data/1156039/000115603926000013/elv-20251231.htm",
+    "published": "2026-02-06",
+    "period": "2025-12-31",
+    "locator": "Printed pp. 71\u201374 consolidated statements; Note 9 PP&E; Note 8 taxes; insurance capital restrictions.",
+    "accessed": "2026-10-19"
+  },
+  "UNH_EPS": {
+    "title": "UnitedHealth FY2025 annual results",
+    "url": "https://www.unitedhealthgroup.com/newsroom/2026/2026-01-27-uhg-reports-2025-results-and-issues-2026-outlook.html",
+    "published": "2026-01-27",
+    "period": "FY2025",
+    "locator": "Annual reported earnings $13.23 per share, distinct from adjusted $16.35.",
+    "accessed": "2026-10-19"
+  },
+  "CI_EPS": {
+    "title": "Cigna FY2025 annual results",
+    "url": "https://newsroom.thecignagroup.com/2026-02-05-The-Cigna-Group-Reports-Strong-Fourth-Quarter-and-Full-Year-2025-Results,-Establishes-2026-Outlook-and-Increases-Dividend",
+    "published": "2026-02-05",
+    "period": "FY2025",
+    "locator": "Exhibit 1: annual total GAAP diluted EPS $22.18; segment/divestiture discussion.",
+    "accessed": "2026-10-19"
+  },
+  "ELV_PRICE": {
+    "title": "ELV historical regular-session close",
+    "url": "https://stockanalysis.com/stocks/elv/history/",
+    "period": "2026-09-10",
+    "value": 416.54,
+    "locator": "Sep 10, 2026 row, Close column; not adjusted close or current quote.",
+    "accessed": "2026-10-19"
+  },
+  "UNH_PRICE": {
+    "title": "UNH historical regular-session close",
+    "url": "https://stockanalysis.com/stocks/unh/history/",
+    "period": "2026-09-10",
+    "value": 388.28,
+    "locator": "Sep 10, 2026 row, Close column; not adjusted close or current quote.",
+    "accessed": "2026-10-19"
+  },
+  "CI_PRICE": {
+    "title": "CI historical regular-session close",
+    "url": "https://stockanalysis.com/stocks/ci/history/",
+    "period": "2026-09-10",
+    "value": 280.91,
+    "locator": "Sep 10, 2026 row, Close column; not adjusted close or current quote.",
+    "accessed": "2026-10-19"
+  },
+  "ELV_ORIGIN_PRICE": {
+    "title": "ELV December 31, 2025 unadjusted close",
+    "url": "https://chartexchange.com/symbol/nyse-elv/historical/",
+    "period": "2025-12-31",
+    "value": 350.55,
+    "accessed": "2026-10-19",
+    "locator": "2025-12-31 row Close $350.55; agrees with Yahoo historical Close, not adjusted close."
+  },
+  "ELV_ORIGIN_PRICE_CHECK": {
+    "title": "ELV historical close cross-check",
+    "url": "https://au.finance.yahoo.com/quote/ELV/history/",
+    "period": "2025-12-31",
+    "value": 350.55,
+    "accessed": "2026-10-19",
+    "locator": "31 Dec 2025 row Close 350.55, not dividend-adjusted column."
+  }
+}

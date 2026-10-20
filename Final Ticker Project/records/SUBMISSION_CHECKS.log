@@ -1,0 +1,73 @@
+ELV local package check: 2026-10-20T00:27:59.724844+00:00
+PASS: Required file START_HERE.md
+PASS: Required file README.md
+PASS: Required file MODEL_GUIDE.md
+PASS: Required file COMMITTEE_MEMO.md
+PASS: Required file RESEARCH_EVOLUTION.md
+PASS: Required file SUBMISSION_CHECKLIST.md
+PASS: Required file VIDEO_1_SCRIPT.md
+PASS: Required file VIDEO_2_SCRIPT.md
+PASS: Required file VIDEO_PLAYBOOK.md
+PASS: Required file model.py
+PASS: Required file elv_forecast.py
+PASS: Required file app.py
+PASS: Required file index.html
+PASS: Required file test_model.py
+PASS: Required file cold_run.py
+PASS: Required file build_report.py
+PASS: Required file freeze_manifest.py
+PASS: Required file Launch Workbench.command
+PASS: Required file outputs/BASE_REPORT.html
+PASS: Required file outputs/BASE_REPORT.md
+PASS: Required file outputs/BASE_RUN.json
+PASS: Required file research/SOURCES.json
+PASS: Required file research/HISTORICAL_INPUTS.json
+PASS: Required file research/PEER_POLICY.md
+PASS: Required file research/ASSIGNMENT.md
+PASS: Required file records/HUMAN_RECORDS.md
+PASS: Required file records/AI_USE_AND_VALIDATION.md
+PASS: Required file records/AI_DIRECTIONAL_PRECOMMIT.md
+PASS: Required file records/ASSUMPTION_CHALLENGE.md
+PASS: Engine identifies Elevance Health / ELV
+PASS: Every ELV reference case passes
+PASS: Filing mappings all reconcile
+PASS: Peer universe is ELV, UNH, CI
+PASS: Saved dashboard exactly matches current ELV engine
+PASS: START_HERE.md identifies ELV
+PASS: START_HERE.md has no superseded company calculations
+PASS: MODEL_GUIDE.md identifies ELV
+PASS: MODEL_GUIDE.md has no superseded company calculations
+PASS: COMMITTEE_MEMO.md identifies ELV
+PASS: COMMITTEE_MEMO.md has no superseded company calculations
+PASS: VIDEO_1_SCRIPT.md identifies ELV
+PASS: VIDEO_1_SCRIPT.md has no superseded company calculations
+PASS: VIDEO_2_SCRIPT.md identifies ELV
+PASS: VIDEO_2_SCRIPT.md has no superseded company calculations
+PASS: VIDEO_PLAYBOOK.md identifies ELV
+PASS: VIDEO_PLAYBOOK.md has no superseded company calculations
+PASS: SUBMISSION_CHECKLIST.md identifies ELV
+PASS: SUBMISSION_CHECKLIST.md has no superseded company calculations
+PASS: index.html identifies ELV
+PASS: index.html has no superseded company calculations
+PASS: outputs/BASE_REPORT.html identifies ELV
+PASS: outputs/BASE_REPORT.html has no superseded company calculations
+PASS: outputs/BASE_REPORT.md identifies ELV
+PASS: outputs/BASE_REPORT.md has no superseded company calculations
+PASS: START_HERE.md uses the current base result
+PASS: MODEL_GUIDE.md uses the current base result
+PASS: COMMITTEE_MEMO.md uses the current base result
+PASS: VIDEO_1_SCRIPT.md uses the current base result
+PASS: VIDEO_2_SCRIPT.md uses the current base result
+PASS: VIDEO_PLAYBOOK.md uses the current base result
+PASS: outputs/BASE_REPORT.md uses the current base result
+PASS: START_HERE.md uses the current margin-demo result
+PASS: VIDEO_2_SCRIPT.md uses the current margin-demo result
+PASS: VIDEO_PLAYBOOK.md uses the current margin-demo result
+PASS: Assignment insurer exclusion preserved
+PASS: Checklist explicitly flags architecture departure
+PASS: Evidence map contains ELV filing and dated origin price
+PASS: Saved history matches active filing inputs
+PASS: Fail-loud diagnostics withhold value
+TECHNICAL PACKAGE: PASS
+COURSE SUBMISSION: INCOMPLETE — instructor disposition for ELV/FCFE/EV-multiple and training-proof departures, original checkpoint/receipt, genuine AI-off prediction, partner evidence, recordings, corrected transcripts, access checks and submission receipt remain pending.
+No upload, instructor approval, human precommit or completed submission is asserted.
